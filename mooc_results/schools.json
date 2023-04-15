@@ -1,0 +1,2804 @@
+[
+  {
+    "school_name": "北京大学",
+    "school_url": "https://www.icourse163.org/university/PKU",
+    "school_img": "https://edu-image.nosdn.127.net/370D4ADD98FE6993DE1970DB0060ACCA.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "13001"
+  },
+  {
+    "school_name": "南京大学",
+    "school_url": "https://www.icourse163.org/university/NJU",
+    "school_img": "https://edu-image.nosdn.127.net/851B65253247220C4FBEB56052F6B512.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9002"
+  },
+  {
+    "school_name": "浙江大学",
+    "school_url": "https://www.icourse163.org/university/ZJU",
+    "school_img": "https://edu-image.nosdn.127.net/3b3416717e8444e78fc4f54b543ec7c1.png",
+    "school_id": "6001"
+  },
+  {
+    "school_name": "复旦大学",
+    "school_url": "https://www.icourse163.org/university/FUDAN",
+    "school_img": "https://edu-image.nosdn.127.net/64A8464ADFDE0A80F0B09C7A28B04C97.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9003"
+  },
+  {
+    "school_name": "北京航空航天大学",
+    "school_url": "https://www.icourse163.org/university/BUAA",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/Kv3j_azNQD8sFDvfqRFaHQ==/6597941679379294936.jpg",
+    "school_id": "8011"
+  },
+  {
+    "school_name": "武汉大学",
+    "school_url": "https://www.icourse163.org/university/WHU",
+    "school_img": "https://edu-image.nosdn.127.net/DD5AFE55B4268D64508A58AE479CCE95.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9010"
+  },
+  {
+    "school_name": "北京理工大学",
+    "school_url": "https://www.icourse163.org/university/BIT",
+    "school_img": "https://edu-image.nosdn.127.net/C3257A57EE18C9695E8CEEFC957F373E.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "8007"
+  },
+  {
+    "school_name": "中国农业大学",
+    "school_url": "https://www.icourse163.org/university/CAU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/Z4A7SDpnhOjRFLz7v6LP1Q==/1144195780429876564.jpg",
+    "school_id": "9020"
+  },
+  {
+    "school_name": "北京师范大学",
+    "school_url": "https://www.icourse163.org/university/BNU",
+    "school_img": "https://edu-image.nosdn.127.net/9335AF96DDF002BD568B58262CB5F75B.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9018"
+  },
+  {
+    "school_name": "中央民族大学",
+    "school_url": "https://www.icourse163.org/university/MUC",
+    "school_img": "https://edu-image.nosdn.127.net/4C7870C1B34586FC06430E8DDE7BCD05.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9022"
+  },
+  {
+    "school_name": "南开大学",
+    "school_url": "https://www.icourse163.org/university/NKU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/yhDsB3aAUCMyMVGgj-IPnw==/6608577255353336320.jpg",
+    "school_id": "9006"
+  },
+  {
+    "school_name": "天津大学",
+    "school_url": "https://www.icourse163.org/university/TJU",
+    "school_img": "https://edu-image.nosdn.127.net/09AEBEE2F6D6C83B6D1D990944326175.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9004"
+  },
+  {
+    "school_name": "大连理工大学",
+    "school_url": "https://www.icourse163.org/university/DUT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/Ij8QrPCgSZZ_GECkmQigNA==/6608899412259397493.jpg",
+    "school_id": "8009"
+  },
+  {
+    "school_name": "吉林大学",
+    "school_url": "https://www.icourse163.org/university/JLU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/fehABjVTEaEhheiJK-f2Fw==/2963087079933355988.jpg",
+    "school_id": "8008"
+  },
+  {
+    "school_name": "哈尔滨工业大学",
+    "school_url": "https://www.icourse163.org/university/HIT",
+    "school_img": "https://edu-image.nosdn.127.net/DECA7A0A83D3A7392D89D89D1052EF17.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9005"
+  },
+  {
+    "school_name": "东北大学",
+    "school_url": "https://www.icourse163.org/university/NEU",
+    "school_img": "https://edu-image.nosdn.127.net/ACAB4C1B0610AB9088D6801CC6FC560D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "8012"
+  },
+  {
+    "school_name": "同济大学",
+    "school_url": "https://www.icourse163.org/university/TONGJI",
+    "school_img": "https://edu-image.nosdn.127.net/6F31DFEDE0DFF8348D3CF978ED909CA4.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "8013"
+  },
+  {
+    "school_name": "上海交通大学",
+    "school_url": "https://www.icourse163.org/university/SJTU",
+    "school_img": "https://edu-image.nosdn.127.net/7D346AE95BD4FA275CB8E1F7EFD46E61.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "8003"
+  },
+  {
+    "school_name": "华东师范大学",
+    "school_url": "https://www.icourse163.org/university/ECNU",
+    "school_img": "https://edu-image.nosdn.127.net/43D19A2002E2A1BC1A05A5A852BAC6C8.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "8015"
+  },
+  {
+    "school_name": "中国人民大学",
+    "school_url": "https://www.icourse163.org/university/RUC",
+    "school_img": "https://edu-image.nosdn.127.net/9A39DABAA98AC316BFD8AA24A26A4524.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9011"
+  },
+  {
+    "school_name": "东南大学",
+    "school_url": "https://www.icourse163.org/university/SEU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/ja2N2n_QgP1I3-UxP9NKOw==/6608249600887935764.jpg",
+    "school_id": "9009"
+  },
+  {
+    "school_name": "中国科学技术大学",
+    "school_url": "https://www.icourse163.org/university/USTC",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/7Qs1tmwUCO69tdA06ZnBKw==/3665930096779793404.jpg",
+    "school_id": "9001"
+  },
+  {
+    "school_name": "厦门大学",
+    "school_url": "https://www.icourse163.org/university/XMU",
+    "school_img": "https://edu-image.nosdn.127.net/75767A5C4DD096C4E18ABAD156621257.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "8002"
+  },
+  {
+    "school_name": "山东大学",
+    "school_url": "https://www.icourse163.org/university/SDU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/kbVoXkrLZ2dyWV1r6Hcllw==/1342917113986842373.jpg",
+    "school_id": "8005"
+  },
+  {
+    "school_name": "中国海洋大学",
+    "school_url": "https://www.icourse163.org/university/OUC",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/ETfW5sSb6f568_qnK_KB3A==/6599299576238344531.jpg",
+    "school_id": "8004"
+  },
+  {
+    "school_name": "华中科技大学",
+    "school_url": "https://www.icourse163.org/university/HUST",
+    "school_img": "https://edu-image.nosdn.127.net/EEBAB88B673740BECED3559CD1DDFF49.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9008"
+  },
+  {
+    "school_name": "湖南大学",
+    "school_url": "https://www.icourse163.org/university/HNU",
+    "school_img": "https://edu-image.nosdn.127.net/42F69A0777BBE19939795AFA7FC39503.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "8006"
+  },
+  {
+    "school_name": "中南大学",
+    "school_url": "https://www.icourse163.org/university/CSU",
+    "school_img": "https://edu-image.nosdn.127.net/F8AAFA1B8C91651114DFDE871FF85B50.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9019"
+  },
+  {
+    "school_name": "国防科技大学",
+    "school_url": "https://www.icourse163.org/university/NUDT",
+    "school_img": "https://edu-image.nosdn.127.net/13BD39CEF3ED21D9AF6CDD905D56467D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "8014"
+  },
+  {
+    "school_name": "中山大学",
+    "school_url": "https://www.icourse163.org/university/SYSU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/l4H1mG98Q1y5HxvPstRrrA==/1415537657978814976.jpg",
+    "school_id": "8010"
+  },
+  {
+    "school_name": "华南理工大学",
+    "school_url": "https://www.icourse163.org/university/SCUT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/SxHU6sG8fBLGwJB0-kt0Gg==/6597642612216601289.jpg",
+    "school_id": "9015"
+  },
+  {
+    "school_name": "四川大学",
+    "school_url": "https://www.icourse163.org/university/SCU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/BGwjhxxuCOcKze4LsV0yfA==/6630183758350613117.png",
+    "school_id": "9014"
+  },
+  {
+    "school_name": "重庆大学",
+    "school_url": "https://www.icourse163.org/university/CQU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/eCLGXI84az5ZfSfY_lVFQQ==/6608406831051754536.jpg",
+    "school_id": "9012"
+  },
+  {
+    "school_name": "电子科技大学",
+    "school_url": "https://www.icourse163.org/university/UESTC",
+    "school_img": "https://edu-image.nosdn.127.net/DFA796EE289BB519F16C232334E28F29.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9013"
+  },
+  {
+    "school_name": "西安交通大学",
+    "school_url": "https://www.icourse163.org/university/XJTU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/VIrvUbRre37mFqiIVfCuoA==/6599329263052289929.jpg",
+    "school_id": "9007"
+  },
+  {
+    "school_name": "西北工业大学",
+    "school_url": "https://www.icourse163.org/university/NWPU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/_p19fzlhgqQeWu39Mqp-lg==/6599281984052267127.jpg",
+    "school_id": "9017"
+  },
+  {
+    "school_name": "西北农林科技大学",
+    "school_url": "https://www.icourse163.org/university/NWSUAF",
+    "school_img": "https://edu-image.nosdn.127.net/764E9DEA135BF2E1D31536563C6ED4AC.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "9021"
+  },
+  {
+    "school_name": "兰州大学",
+    "school_url": "https://www.icourse163.org/university/LZU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/KG3CDrJYd2IG4qXcs9j-TQ==/160722211802042552.jpg",
+    "school_id": "9016"
+  },
+  {
+    "school_name": "北京工业大学",
+    "school_url": "https://www.icourse163.org/university/bjut",
+    "school_img": "https://edu-image.nosdn.127.net/5C679853F1F28604091FA79E27F41450.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001176003"
+  },
+  {
+    "school_name": "中央财经大学",
+    "school_url": "https://www.icourse163.org/university/CUFE",
+    "school_img": "https://edu-image.nosdn.127.net/D66EC3A539EA220721971BB98DFCB329.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "20002"
+  },
+  {
+    "school_name": "中国政法大学",
+    "school_url": "https://www.icourse163.org/university/cupl",
+    "school_img": "https://edu-image.nosdn.127.net/9EE732C81D85B24DDDB5A114140FCDB6.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001171002"
+  },
+  {
+    "school_name": "北京邮电大学",
+    "school_url": "https://www.icourse163.org/university/BUPT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/NcSU2q64Wq3fKH2FQVnjOQ==/2397040901685387124.png",
+    "school_id": "57001"
+  },
+  {
+    "school_name": "北京交通大学",
+    "school_url": "https://www.icourse163.org/university/NJTU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/DTaDxefnyBpT3Y7lSCJ3tw==/3828622633318658061.jpg",
+    "school_id": "74001"
+  },
+  {
+    "school_name": "北京中医药大学",
+    "school_url": "https://www.icourse163.org/university/BUCM",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/Stnag3eDtL6wrdziM7hKBg==/2407455475823579778.png",
+    "school_id": "75001"
+  },
+  {
+    "school_name": "华北电力大学",
+    "school_url": "https://www.icourse163.org/university/NCEPU",
+    "school_img": "https://edu-image.nosdn.127.net/812D387986683D101B5BBC0DD8BD4941-1441763246288?imageView&thumbnail=220y80&quality=100",
+    "school_id": "101001"
+  },
+  {
+    "school_name": "北京科技大学",
+    "school_url": "https://www.icourse163.org/university/USTB",
+    "school_img": "https://edu-image.nosdn.127.net/18820B3409B12D20ABBF32D53A0250C3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "110001"
+  },
+  {
+    "school_name": "中国石油大学（北京）",
+    "school_url": "https://www.icourse163.org/university/CUP",
+    "school_img": "https://edu-image.nosdn.127.net/E9F4B6FE1868ABDBCAB1514CE96E9911.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "113001"
+  },
+  {
+    "school_name": "北京外国语大学",
+    "school_url": "https://www.icourse163.org/university/BFSU",
+    "school_img": "https://edu-image.nosdn.127.net/D99B66666A1C87FFE2AE4C6EE17D9CCB.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001175001"
+  },
+  {
+    "school_name": "北京化工大学",
+    "school_url": "https://www.icourse163.org/university/BUCT",
+    "school_img": "https://edu-image.nosdn.127.net/191FF772048B2FFC2C1EB9E635BD350C.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001298001"
+  },
+  {
+    "school_name": "对外经济贸易大学",
+    "school_url": "https://www.icourse163.org/university/UIBE",
+    "school_img": "https://edu-image.nosdn.127.net/1DB830585BED035F9F18B81E720012CC.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001353001"
+  },
+  {
+    "school_name": "中央音乐学院",
+    "school_url": "https://www.icourse163.org/university/CCOM",
+    "school_img": "https://edu-image.nosdn.127.net/E80D9EE17601DA685BF1F894E47DDB83.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001439001"
+  },
+  {
+    "school_name": "北京林业大学",
+    "school_url": "https://www.icourse163.org/university/BFU",
+    "school_img": "https://edu-image.nosdn.127.net/E5375CF0F7613B8A6C78F4C14D726749.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001568001"
+  },
+  {
+    "school_name": "中国矿业大学（北京）",
+    "school_url": "https://www.icourse163.org/university/CUMTB",
+    "school_img": "https://edu-image.nosdn.127.net/76653C7A991BBAA0C4EC3ABFB662E046.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001569001"
+  },
+  {
+    "school_name": "北京体育大学",
+    "school_url": "https://www.icourse163.org/university/BSU",
+    "school_img": "https://edu-image.nosdn.127.net/BBE625A7AD96839FA917E6B0103E09A9.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001617001"
+  },
+  {
+    "school_name": "中国传媒大学",
+    "school_url": "https://www.icourse163.org/university/CUC",
+    "school_img": "https://edu-image.nosdn.127.net/D586731FD7937B9E682F200573C4F16C.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001621001"
+  },
+  {
+    "school_name": "中国地质大学（北京）",
+    "school_url": "https://www.icourse163.org/university/ZGDZDXBJ",
+    "school_img": "https://edu-image.nosdn.127.net/23D6010782A7F7FBCFF0A4723A1DC898.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203066801"
+  },
+  {
+    "school_name": "河北工业大学",
+    "school_url": "https://www.icourse163.org/university/HEBUT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/sPpbd_tAB-GsYkfuOFUaGQ==/2816720091960997103.png",
+    "school_id": "63001"
+  },
+  {
+    "school_name": "天津医科大学",
+    "school_url": "https://www.icourse163.org/university/TJYKDX",
+    "school_img": "https://edu-image.nosdn.127.net/A7FC44F3151BF4B539FD1D4286A4E2D7.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001396001"
+  },
+  {
+    "school_name": "上海外国语大学",
+    "school_url": "https://www.icourse163.org/university/SHISU",
+    "school_img": "https://edu-image.nosdn.127.net/5E3D3A37322715CEA93D944D0BEFB644.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001437002"
+  },
+  {
+    "school_name": "上海财经大学",
+    "school_url": "https://www.icourse163.org/university/SHUFE",
+    "school_img": "https://edu-image.nosdn.127.net/8008FBD9AAE845B8EE166D511DD336D5.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001171001"
+  },
+  {
+    "school_name": "东华大学",
+    "school_url": "https://www.icourse163.org/university/DHU",
+    "school_img": "https://edu-image.nosdn.127.net/52953751E21EB6D5605CB5EF3B30C136.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001212001"
+  },
+  {
+    "school_name": "华东理工大学",
+    "school_url": "https://www.icourse163.org/university/ECUST",
+    "school_img": "https://edu-image.nosdn.127.net/2D8B505E6121AE5FD77519A67224C518.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001220001"
+  },
+  {
+    "school_name": "华东政法大学",
+    "school_url": "https://www.icourse163.org/university/HDZF",
+    "school_img": "https://edu-image.nosdn.127.net/8B5C9862DAAA37707E689C4CF2304249.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203223802"
+  },
+  {
+    "school_name": "上海大学",
+    "school_url": "https://www.icourse163.org/university/SHU",
+    "school_img": "https://edu-image.nosdn.127.net/90049197122485659FF6FBCA7F43F9BE.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001316001"
+  },
+  {
+    "school_name": "西南大学",
+    "school_url": "https://www.icourse163.org/university/SWU",
+    "school_img": "https://edu-image.nosdn.127.net/6177E698A7E9090F5479E3358BB122D8.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "98001"
+  },
+  {
+    "school_name": "华北电力大学（保定）",
+    "school_url": "https://www.icourse163.org/university/NCEPUB",
+    "school_img": "https://edu-image.nosdn.127.net/A43F892F415947C0AB60EFADADAA338B-1441763306855?imageView&thumbnail=220y80&quality=100",
+    "school_id": "112001"
+  },
+  {
+    "school_name": "太原理工大学",
+    "school_url": "https://www.icourse163.org/university/TUT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/ZfeCdK4av8jCnfxxSF2mAQ==/2017894108138999527.png",
+    "school_id": "59001"
+  },
+  {
+    "school_name": "内蒙古大学",
+    "school_url": "https://www.icourse163.org/university/IMU",
+    "school_img": "https://mooc-image.nosdn.127.net/d6b31f5860884bb3ad59918e1b38091d.png",
+    "school_id": "1001214001"
+  },
+  {
+    "school_name": "大连海事大学",
+    "school_url": "https://www.icourse163.org/university/DLMU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/EC0NQFDOLKHiBlNuAEKK_A==/6630699429303599547.png",
+    "school_id": "90002"
+  },
+  {
+    "school_name": "辽宁大学",
+    "school_url": "https://www.icourse163.org/university/INU",
+    "school_img": "https://edu-image.nosdn.127.net/96DD3E08C7173C93D8BFC61BFEE47EBE.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203062801"
+  },
+  {
+    "school_name": "东北师范大学",
+    "school_url": "https://www.icourse163.org/university/NENU",
+    "school_img": "https://edu-image.nosdn.127.net/81F50671CF673CB7FC5AEA1A52CD64D3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001167002"
+  },
+  {
+    "school_name": "东北林业大学",
+    "school_url": "https://www.icourse163.org/university/NEFU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/9dg9qyKSuQHupZc00XdLUQ==/2855282163853848009.jpg",
+    "school_id": "38001"
+  },
+  {
+    "school_name": "哈尔滨工程大学",
+    "school_url": "https://www.icourse163.org/university/HRBEU",
+    "school_img": "https://edu-image.nosdn.127.net/C5EA72EE4568E89678E57458916DA5B3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "46001"
+  },
+  {
+    "school_name": "东北农业大学",
+    "school_url": "https://www.icourse163.org/university/NEAU",
+    "school_img": "https://edu-image.nosdn.127.net/A524E4C6BCC60B451E1FAC6DE0F0C1B6.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203010801"
+  },
+  {
+    "school_name": "江南大学",
+    "school_url": "https://www.icourse163.org/university/JIANGNAN",
+    "school_img": "https://edu-image.nosdn.127.net/61AF2F5DF4E69A16C06C5F8498F40FFF.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237008"
+  },
+  {
+    "school_name": "南京航空航天大学",
+    "school_url": "https://www.icourse163.org/university/NUAA",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/GdNMeL1YjEgByiLxa_5JfA==/6598061526146728817.jpg",
+    "school_id": "28001"
+  },
+  {
+    "school_name": "中国矿业大学",
+    "school_url": "https://www.icourse163.org/university/CUMT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/jI2WLQXnOGa_EySuYFEp2w==/2892436860696112471.png",
+    "school_id": "67002"
+  },
+  {
+    "school_name": "苏州大学",
+    "school_url": "https://www.icourse163.org/university/SUDA",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/FnbuqsHcF30qkp4249Xgvg==/2162009296214763890.png",
+    "school_id": "88002"
+  },
+  {
+    "school_name": "南京理工大学",
+    "school_url": "https://www.icourse163.org/university/NJUST",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/w1abTer1rOW08a003Dnb3A==/1387390160307583918.jpg",
+    "school_id": "47001"
+  },
+  {
+    "school_name": "南京师范大学",
+    "school_url": "https://www.icourse163.org/university/NJNU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/kZJg3dGyDYl75cW16oR3qA==/6619475614607122902.jpg",
+    "school_id": "53001"
+  },
+  {
+    "school_name": "中国药科大学",
+    "school_url": "https://www.icourse163.org/university/CPU",
+    "school_img": "https://edu-image.nosdn.127.net/5D1EDA97320A268C516399E55D8F695B.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001188001"
+  },
+  {
+    "school_name": "河海大学",
+    "school_url": "https://www.icourse163.org/university/HHU",
+    "school_img": "https://edu-image.nosdn.127.net/5EEF34331CC28508ACED4C1E53A193E6.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238001"
+  },
+  {
+    "school_name": "南京农业大学",
+    "school_url": "https://www.icourse163.org/university/NJAU",
+    "school_img": "https://edu-image.nosdn.127.net/A56C38477D250474B622FAB23C223086.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001239001"
+  },
+  {
+    "school_name": "合肥工业大学",
+    "school_url": "https://www.icourse163.org/university/HFUT",
+    "school_img": "https://edu-image.nosdn.127.net/17dc3f2fa6e74916bafbd44950754971.png",
+    "school_id": "36001"
+  },
+  {
+    "school_name": "福州大学",
+    "school_url": "https://www.icourse163.org/university/FZU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/7M6GFPdMNGu9WtC3AWvHyQ==/6630869853607286901.jpg",
+    "school_id": "116001"
+  },
+  {
+    "school_name": "南昌大学",
+    "school_url": "https://www.icourse163.org/university/NCU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/DjX9HZPDanoqMQrJp51pQw==/6619576769676879909.jpg",
+    "school_id": "52002"
+  },
+  {
+    "school_name": "中国石油大学（华东）",
+    "school_url": "https://www.icourse163.org/university/UPC",
+    "school_img": "https://edu-image.nosdn.127.net/47E1BC9FA48B9E663E78E0AEEA050B3D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "68001"
+  },
+  {
+    "school_name": "郑州大学",
+    "school_url": "https://www.icourse163.org/university/ZZU",
+    "school_img": "https://edu-image.nosdn.127.net/9E1A3A1799D7190025A41DD2B27530A4.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001239004"
+  },
+  {
+    "school_name": "中国地质大学（武汉）",
+    "school_url": "https://www.icourse163.org/university/CUG",
+    "school_img": "https://edu-image.nosdn.127.net/1E0CAFA49D3EDCC96DF3638C74B524D3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "49001"
+  },
+  {
+    "school_name": "武汉理工大学",
+    "school_url": "https://www.icourse163.org/university/WHUT",
+    "school_img": "https://edu-image.nosdn.127.net/FBAAFEEC0B164300476B4A2B7E1CD716.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "103001"
+  },
+  {
+    "school_name": "华中农业大学",
+    "school_url": "https://www.icourse163.org/university/HZAU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/uh8aMiOFVlCPgKgrMimyDw==/6630927028211652294.png",
+    "school_id": "104001"
+  },
+  {
+    "school_name": "华中师范大学",
+    "school_url": "https://www.icourse163.org/university/CCNU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/4YRDMehHfHmi1zrR84d5pg==/6630641155188420462.jpg",
+    "school_id": "105001"
+  },
+  {
+    "school_name": "中南财经政法大学",
+    "school_url": "https://www.icourse163.org/university/ZUEL",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/2pR-_JcPqRYDWp4LqK0FpQ==/6630391566048537481.jpg",
+    "school_id": "106001"
+  },
+  {
+    "school_name": "湖南师范大学",
+    "school_url": "https://www.icourse163.org/university/HUNNU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/dP3tIyPdosn0I6bGOQaySg==/4939604366395740423.jpg",
+    "school_id": "39001"
+  },
+  {
+    "school_name": "华南师范大学",
+    "school_url": "https://www.icourse163.org/university/scnu",
+    "school_img": "https://edu-image.nosdn.127.net/7388B4043529A36C5CA18CB807E00A45.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001177001"
+  },
+  {
+    "school_name": "暨南大学",
+    "school_url": "https://www.icourse163.org/university/JNU",
+    "school_img": "https://edu-image.nosdn.127.net/7508A1160E746DE33C74C61F823BA622.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001195001"
+  },
+  {
+    "school_name": "华南农业大学",
+    "school_url": "https://www.icourse163.org/university/HNNY",
+    "school_img": "https://edu-image.nosdn.127.net/27F5EE8CB232ADAAEAAF4FF216D15037.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203225801"
+  },
+  {
+    "school_name": "广西大学",
+    "school_url": "https://www.icourse163.org/university/GXU",
+    "school_img": "https://edu-image.nosdn.127.net/21397C9342380C9D168EF6F09619F11B.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "108002"
+  },
+  {
+    "school_name": "西南交通大学",
+    "school_url": "https://www.icourse163.org/university/SWJTU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/bFDdp_kqln2WGHkcksxjlA==/2858659863574366247.jpg",
+    "school_id": "35001"
+  },
+  {
+    "school_name": "西南财经大学",
+    "school_url": "https://www.icourse163.org/university/SWUFE",
+    "school_img": "https://edu-image.nosdn.127.net/F6E61C8221054E907EAE605057152AA9.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "122001"
+  },
+  {
+    "school_name": "云南大学",
+    "school_url": "https://www.icourse163.org/university/YNU",
+    "school_img": "https://edu-image.nosdn.127.net/F702F10BB5F6A8F5DF66AEC6AE3766B9.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001449002"
+  },
+  {
+    "school_name": "西北大学",
+    "school_url": "https://www.icourse163.org/university/NWU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/bmYkVGCNyJjPdO1ea0cvkA==/6630187056885821875.jpg",
+    "school_id": "108003"
+  },
+  {
+    "school_name": "长安大学",
+    "school_url": "https://www.icourse163.org/university/CHD",
+    "school_img": "https://edu-image.nosdn.127.net/2CEA2AC3EE011CB8A30617CA113A0C17.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001268003"
+  },
+  {
+    "school_name": "西安电子科技大学",
+    "school_url": "https://www.icourse163.org/university/XDU",
+    "school_img": "https://edu-image.nosdn.127.net/34FA5BEF3FCB6A368ED55C8EFFA2F686.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "109001"
+  },
+  {
+    "school_name": "第四军医大学",
+    "school_url": "https://www.icourse163.org/university/FMMU",
+    "school_img": "https://edu-image.nosdn.127.net/82244E58538A1882C7E5E6ACE19CA1DD.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "140001"
+  },
+  {
+    "school_name": "陕西师范大学",
+    "school_url": "https://www.icourse163.org/university/SNNU",
+    "school_img": "https://edu-image.nosdn.127.net/34EACA8154AADA41F4705EE6D1C180BE.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001170001"
+  },
+  {
+    "school_name": "宁夏大学",
+    "school_url": "https://www.icourse163.org/university/NXU",
+    "school_img": "https://edu-image.nosdn.127.net/6E3161A3D66326E764330B6D44C023DD.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "94001"
+  },
+  {
+    "school_name": "青海大学",
+    "school_url": "https://www.icourse163.org/university/QHU",
+    "school_img": "https://edu-image.nosdn.127.net/289A13336403BBF3824E22946E5BF188.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "132001"
+  },
+  {
+    "school_name": "中国科学院大学",
+    "school_url": "https://www.icourse163.org/university/GUCAS",
+    "school_img": "https://edu-image.nosdn.127.net/FD713189BCE2C33BDF3AA5A0F8C8F944.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "150001"
+  },
+  {
+    "school_name": "中国社会科学院大学",
+    "school_url": "https://www.icourse163.org/university/UCASS",
+    "school_img": "https://edu-image.nosdn.127.net/6F68AB89E2224F34C289217A8B2D1705.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001391001"
+  },
+  {
+    "school_name": "重庆邮电大学",
+    "school_url": "https://www.icourse163.org/university/GYD069",
+    "school_img": "https://edu-image.nosdn.127.net/C044BB6D868476BC9B8AD6020FCB0945.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444116161"
+  },
+  {
+    "school_name": "四川财经职业学院",
+    "school_url": "https://www.icourse163.org/university/SVCFE",
+    "school_img": "https://edu-image.nosdn.127.net/045B6CE48221066721A9151F7780F219.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444135164"
+  },
+  {
+    "school_name": "四川外国语大学",
+    "school_url": "https://www.icourse163.org/university/SISU",
+    "school_img": "https://edu-image.nosdn.127.net/48ff32c8ff6a45b891b8f5388de71b62.jpg",
+    "school_id": "1444146162"
+  },
+  {
+    "school_name": "陕西理工大学",
+    "school_url": "https://www.icourse163.org/university/SNUT",
+    "school_img": "https://edu-image.nosdn.127.net/4D5AEA5FB71B175308E59365F862C7DD.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444150161"
+  },
+  {
+    "school_name": "北京工商大学",
+    "school_url": "https://www.icourse163.org/university/BJGS",
+    "school_img": "https://edu-image.nosdn.127.net/45002D381C66A97F29207EF92FCFEDC3.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444501161"
+  },
+  {
+    "school_name": "北京建筑大学",
+    "school_url": "https://www.icourse163.org/university/BJJZ",
+    "school_img": "https://edu-image.nosdn.127.net/34D1EEC6D1661CE8429AE5C0A5DD231E.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203198801"
+  },
+  {
+    "school_name": "北京协和医学院",
+    "school_url": "https://www.icourse163.org/university/PUMC",
+    "school_img": "https://edu-image.nosdn.127.net/4562267815F8B2520F8DDD0191757726.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "20001"
+  },
+  {
+    "school_name": "首都经济贸易大学",
+    "school_url": "https://www.icourse163.org/university/CUEB",
+    "school_img": "https://edu-image.nosdn.127.net/69942E7D26C5A6B64029E0CA26C78A14.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001330001"
+  },
+  {
+    "school_name": "外交学院",
+    "school_url": "https://www.icourse163.org/university/CFAU",
+    "school_img": "https://edu-image.nosdn.127.net/6835DE6F15F5139826DA94BD3C9F7DD1.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203077802"
+  },
+  {
+    "school_name": "首都师范大学",
+    "school_url": "https://www.icourse163.org/university/CNU",
+    "school_img": "https://edu-image.nosdn.127.net/BEA924FADBBA7EF77EE24248E30B9F22.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "125001"
+  },
+  {
+    "school_name": "首都体育学院",
+    "school_url": "https://www.icourse163.org/university/CUPES",
+    "school_img": "https://edu-image.nosdn.127.net/C55180498B99143985C1468EFF93A225.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001460001"
+  },
+  {
+    "school_name": "北京语言大学",
+    "school_url": "https://www.icourse163.org/university/BLCU",
+    "school_img": "https://edu-image.nosdn.127.net/57B57BCC6C438AF6F3A85285EF23276D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001289001"
+  },
+  {
+    "school_name": "北京第二外国语学院",
+    "school_url": "https://www.icourse163.org/university/BISU",
+    "school_img": "https://edu-image.nosdn.127.net/81D5028D50DB7DD84A70097EBE1582F2.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203033801"
+  },
+  {
+    "school_name": "北京物资学院",
+    "school_url": "https://www.icourse163.org/university/bwu",
+    "school_img": "https://edu-image.nosdn.127.net/CE9720F9B157B515974B1771A6931BA5.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "131003"
+  },
+  {
+    "school_name": "国际关系学院",
+    "school_url": "https://www.icourse163.org/university/GJGX",
+    "school_img": "https://edu-image.nosdn.127.net/3BCF18722831D4E5CF355ACBBAAFE0A1.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001222001"
+  },
+  {
+    "school_name": "中国音乐学院",
+    "school_url": "https://www.icourse163.org/university/CCM",
+    "school_img": "https://edu-image.nosdn.127.net/645CC4B9150B511D41921BAD46B7D466.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001440001"
+  },
+  {
+    "school_name": "中央美术学院",
+    "school_url": "https://www.icourse163.org/university/CAFA",
+    "school_img": "https://edu-image.nosdn.127.net/D5ECFAA3F8250564EA83510A2512F3BD.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203099801"
+  },
+  {
+    "school_name": "中央戏剧学院",
+    "school_url": "https://www.icourse163.org/university/CAD",
+    "school_img": "https://edu-image.nosdn.127.net/C1998C141D5F0A64C5D4ACC37DA8D1C4.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444547162"
+  },
+  {
+    "school_name": "北京服装学院",
+    "school_url": "https://www.icourse163.org/university/BJFZ",
+    "school_img": "https://edu-image.nosdn.127.net/119EBC2F9663CA6F0416F84CE3896EF4.jpeg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202994801"
+  },
+  {
+    "school_name": "中国劳动关系学院",
+    "school_url": "https://www.icourse163.org/university/GDY142",
+    "school_img": "https://edu-image.nosdn.127.net/E79F55A16F771E6E5903A7C30B9E09E3.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444154162"
+  },
+  {
+    "school_name": "天津师范大学",
+    "school_url": "https://www.icourse163.org/university/TJSFDX",
+    "school_img": "https://edu-image.nosdn.127.net/8BC474EDAAC8CF871F1C2A56871D7BE4.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001397001"
+  },
+  {
+    "school_name": "天津财经大学",
+    "school_url": "https://www.icourse163.org/university/TJCJDX",
+    "school_img": "https://edu-image.nosdn.127.net/9A3ECB530919577FDDC82BDF342148AD.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001399001"
+  },
+  {
+    "school_name": "河北科技大学",
+    "school_url": "https://www.icourse163.org/university/HEBUST",
+    "school_img": "https://edu-image.nosdn.127.net/12C4B4C2B9C2D0B03D061D577923AFCA.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001309001"
+  },
+  {
+    "school_name": "河北师范大学",
+    "school_url": "https://www.icourse163.org/university/HEBTU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/4FIDE0bXnjCtAfqc6tkzeg==/6608203421400583881.jpg",
+    "school_id": "52001"
+  },
+  {
+    "school_name": "保定学院",
+    "school_url": "https://www.icourse163.org/university/BDU",
+    "school_img": "https://edu-image.nosdn.127.net/2E76C1C993EA2F8B0668C3F56B130874.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001196001"
+  },
+  {
+    "school_name": "邢台学院",
+    "school_url": "https://www.icourse163.org/university/XTTC",
+    "school_img": "https://edu-image.nosdn.127.net/A06D276D7768919A8477C7F82D43E1A6.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202954801"
+  },
+  {
+    "school_name": "山西大学",
+    "school_url": "https://www.icourse163.org/university/SXU",
+    "school_img": "https://edu-image.nosdn.127.net/F331FE75180FE7893DC960443145F64D.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001495003"
+  },
+  {
+    "school_name": "山西医科大学",
+    "school_url": "https://www.icourse163.org/university/SXMU",
+    "school_img": "https://edu-image.nosdn.127.net/1E35A36FB7959710EE2F7669C0870C36.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202998802"
+  },
+  {
+    "school_name": "中国刑事警察学院",
+    "school_url": "https://www.icourse163.org/university/XSJC",
+    "school_img": "https://edu-image.nosdn.127.net/284CB4D61101D0E69ADCC53904D831FE.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203127801"
+  },
+  {
+    "school_name": "内蒙古民族大学",
+    "school_url": "https://www.icourse163.org/university/IMUN",
+    "school_img": "https://edu-image.nosdn.127.net/F878B0BA327C9253BBB833BF293A93D6.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001609001"
+  },
+  {
+    "school_name": "沈阳工业大学",
+    "school_url": "https://www.icourse163.org/university/SUT",
+    "school_img": "https://edu-image.nosdn.127.net/71329ECD7F8D96D447FFE0E3064EBA84.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001502001"
+  },
+  {
+    "school_name": "大连工业大学",
+    "school_url": "https://www.icourse163.org/university/DLPU",
+    "school_img": "https://edu-image.nosdn.127.net/132B757AC3A3B2A5A59A16F81C235B4F.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001518001"
+  },
+  {
+    "school_name": "大连海洋大学",
+    "school_url": "https://www.icourse163.org/university/DLOU",
+    "school_img": "https://edu-image.nosdn.127.net/DC9731714B03E1AD3D5AA7081937D66D.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202984801"
+  },
+  {
+    "school_name": "中国医科大学",
+    "school_url": "https://www.icourse163.org/university/CMU",
+    "school_img": "https://edu-image.nosdn.127.net/3EA72820544C4D8385B33C4EE425D181.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001319001"
+  },
+  {
+    "school_name": "辽宁中医药大学",
+    "school_url": "https://www.icourse163.org/university/LNUTCM",
+    "school_img": "https://edu-image.nosdn.127.net/1CE4856ED0F62C46CAEF4E060DF5AFD3.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203098801"
+  },
+  {
+    "school_name": "渤海大学",
+    "school_url": "https://www.icourse163.org/university/BHU",
+    "school_img": "https://edu-image.nosdn.127.net/97B41A42EA6F1E6BA14A7D54BCCAE294.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001224001"
+  },
+  {
+    "school_name": "沈阳师范大学",
+    "school_url": "https://www.icourse163.org/university/SYNU",
+    "school_img": "https://edu-image.nosdn.127.net/02AC0BD9FE0D1E3E3E5EFDBAB4D8B2A8.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001426001"
+  },
+  {
+    "school_name": "东北财经大学",
+    "school_url": "https://www.icourse163.org/university/DUFE",
+    "school_img": "https://edu-image.nosdn.127.net/09E5E91B615DF01FE0353EBD8EE2345D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "108001"
+  },
+  {
+    "school_name": "通化师范学院",
+    "school_url": "https://www.icourse163.org/university/THNU",
+    "school_img": "https://edu-image.nosdn.127.net/9DA93887E9A85C9F9F405040142BED35.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001501001"
+  },
+  {
+    "school_name": "长春师范大学",
+    "school_url": "https://www.icourse163.org/university/CCSFDX",
+    "school_img": "https://edu-image.nosdn.127.net/BAAA6E5A012504C4DEB498986FBF50C7.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001591003"
+  },
+  {
+    "school_name": "长春中医药大学",
+    "school_url": "https://www.icourse163.org/university/CCUCM",
+    "school_img": "https://edu-image.nosdn.127.net/A6795EA1AC88AF550B43F91AA71D7B98.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203207801"
+  },
+  {
+    "school_name": "黑龙江大学",
+    "school_url": "https://www.icourse163.org/university/HLJU",
+    "school_img": "https://edu-image.nosdn.127.net/30C01C21B49BB1261B7DE7B857AB98AA.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001200001"
+  },
+  {
+    "school_name": "哈尔滨医科大学",
+    "school_url": "https://www.icourse163.org/university/HEBYKDX",
+    "school_img": "https://edu-image.nosdn.127.net/D66B001FCE790AA7ED6A32D2AF3F1563.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202976801"
+  },
+  {
+    "school_name": "哈尔滨师范大学",
+    "school_url": "https://www.icourse163.org/university/HRBNU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/QTB0zDkXKFQT4p5jPajOtg==/6619502002886158184.png",
+    "school_id": "50001"
+  },
+  {
+    "school_name": "上海海事大学",
+    "school_url": "https://www.icourse163.org/university/SHMUT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/KQayKXDe7P3sUS1GHOO7gw==/4819414551340106019.jpg",
+    "school_id": "54001"
+  },
+  {
+    "school_name": "上海对外经贸大学",
+    "school_url": "https://www.icourse163.org/university/SUIBE",
+    "school_img": "https://edu-image.nosdn.127.net/1ee5f45870cd42c9a39d43a9d1894891.png",
+    "school_id": "1001577001"
+  },
+  {
+    "school_name": "上海应用技术大学",
+    "school_url": "https://www.icourse163.org/university/SIT",
+    "school_img": "https://edu-image.nosdn.127.net/1C32E69B69C0810F4AEDF99D72DBF246.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203051801"
+  },
+  {
+    "school_name": "上海中医药大学",
+    "school_url": "https://www.icourse163.org/university/SHUTCM",
+    "school_img": "https://edu-image.nosdn.127.net/B1D99FD670ACA750FAB4572E3DDD8FF9.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202995801"
+  },
+  {
+    "school_name": "上海师范大学",
+    "school_url": "https://www.icourse163.org/university/SHNU",
+    "school_img": "https://edu-image.nosdn.127.net/974509C71FD1017AD1751930BD1BF7F4.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001532001"
+  },
+  {
+    "school_name": "上海体育学院",
+    "school_url": "https://www.icourse163.org/university/SUS",
+    "school_img": "https://edu-image.nosdn.127.net/4FA44C7BF8969C88258DEC741B75C630.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001477001"
+  },
+  {
+    "school_name": "上海戏剧学院",
+    "school_url": "https://www.icourse163.org/university/STA",
+    "school_img": "https://edu-image.nosdn.127.net/C0A60105905159E65E7F4A57BD768B00.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001179001"
+  },
+  {
+    "school_name": "南京邮电大学",
+    "school_url": "https://www.icourse163.org/university/NJUPT",
+    "school_img": "https://edu-image.nosdn.127.net/A5D53D6E47AC916E63916C03E3A2C639.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "107001"
+  },
+  {
+    "school_name": "盐城工学院",
+    "school_url": "https://www.icourse163.org/university/YCIT",
+    "school_img": "https://edu-image.nosdn.127.net/13F1F3F3941876AD514D81B465AE1FF8.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "146001"
+  },
+  {
+    "school_name": "南京中医药大学",
+    "school_url": "https://www.icourse163.org/university/NJUTCM",
+    "school_img": "https://edu-image.nosdn.127.net/35469160714E5AE395A537379A618DEA.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237004"
+  },
+  {
+    "school_name": "中国人民解放军陆军工程大学",
+    "school_url": "https://www.icourse163.org/university/PAEU",
+    "school_img": "https://edu-image.nosdn.127.net/C2D549179ADEBA71D0578C451793BB3E.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "117001"
+  },
+  {
+    "school_name": "南京体育学院",
+    "school_url": "https://www.icourse163.org/university/NIPES",
+    "school_img": "https://edu-image.nosdn.127.net/9288DD60B2D652F2851E1A587A54523C.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238004"
+  },
+  {
+    "school_name": "江苏大学",
+    "school_url": "https://www.icourse163.org/university/UJS",
+    "school_img": "https://edu-image.nosdn.127.net/7B647A7409CE6FE60BE0986CB3A47FD6.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237005"
+  },
+  {
+    "school_name": "杭州电子科技大学",
+    "school_url": "https://www.icourse163.org/university/HDU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/DUPFJ6kBbbdldKhPAabXew==/1416945032861680277.jpg",
+    "school_id": "30001"
+  },
+  {
+    "school_name": "浙江工业大学",
+    "school_url": "https://www.icourse163.org/university/ZJUT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/mux67MTLZNh1T6lcD_974A==/1144477255406412895.png",
+    "school_id": "13002"
+  },
+  {
+    "school_name": "浙江理工大学",
+    "school_url": "https://www.icourse163.org/university/ZSTU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/vPuxt4H7WthhadkJmJwT9w==/6619373360025756541.jpg",
+    "school_id": "55001"
+  },
+  {
+    "school_name": "西湖大学",
+    "school_url": "https://www.icourse163.org/university/XHUN",
+    "school_img": "https://mooc-image.nosdn.127.net/5aa6bfd7e4734b25bc21fbe08f7d3a13.png",
+    "school_id": "1444547540"
+  },
+  {
+    "school_name": "浙江农林大学",
+    "school_url": "https://www.icourse163.org/university/ZAFU",
+    "school_img": "https://edu-image.nosdn.127.net/0B8B77A05718A8FFC32359F7739C5729.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202958801"
+  },
+  {
+    "school_name": "杭州师范大学",
+    "school_url": "https://www.icourse163.org/university/HZNU",
+    "school_img": "https://edu-image.nosdn.127.net/A9085FDB5D9445DEBFDE724E265B5A1A.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001208001"
+  },
+  {
+    "school_name": "温州大学",
+    "school_url": "https://www.icourse163.org/university/WZU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/9woV7Ejmp8b48lRnCRbnJw==/6631228294396450173.jpg",
+    "school_id": "121001"
+  },
+  {
+    "school_name": "宁波大学",
+    "school_url": "https://www.icourse163.org/university/NBU",
+    "school_img": "https://edu-image.nosdn.127.net/B3C469C496824BD20DC41CEA9F32D043.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001338001"
+  },
+  {
+    "school_name": "浙江工商大学",
+    "school_url": "https://www.icourse163.org/university/HZIC",
+    "school_img": "https://edu-image.nosdn.127.net/F825C68B5F2305BBFFF1A07E766E322D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001224002"
+  },
+  {
+    "school_name": "中国美术学院",
+    "school_url": "https://www.icourse163.org/university/CAA",
+    "school_img": "https://edu-image.nosdn.127.net/C97730A3D954C7F8EBFC9F21E2B91979.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444525161"
+  },
+  {
+    "school_name": "中国计量大学",
+    "school_url": "https://www.icourse163.org/university/ZGJL",
+    "school_img": "https://edu-image.nosdn.127.net/24085077D986B9DE3CF26C0B7433884F.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202970801"
+  },
+  {
+    "school_name": "安徽大学",
+    "school_url": "https://www.icourse163.org/university/AHDX",
+    "school_img": "https://edu-image.nosdn.127.net/A8CBE764420A9DDAE4F0AAC4BE350F7A.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444070165"
+  },
+  {
+    "school_name": "华侨大学",
+    "school_url": "https://www.icourse163.org/university/HQU",
+    "school_img": "https://edu-image.nosdn.127.net/152CFFA25B9BB5D4B68D6468B12FF5B5.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001254002"
+  },
+  {
+    "school_name": "福建农林大学",
+    "school_url": "https://www.icourse163.org/university/FAFU",
+    "school_img": "https://edu-image.nosdn.127.net/38C0E1859804CD6C15CBABA6D0FD9451.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001251001"
+  },
+  {
+    "school_name": "集美大学",
+    "school_url": "https://www.icourse163.org/university/JMU",
+    "school_img": "https://edu-image.nosdn.127.net/DA5E13B6170ABD877714E650CF0E6623.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001328001"
+  },
+  {
+    "school_name": "福建中医药大学",
+    "school_url": "https://www.icourse163.org/university/FJZYY",
+    "school_img": "https://edu-image.nosdn.127.net/E5E779FCFDE26FF13E5179E148706091.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202999802"
+  },
+  {
+    "school_name": "福建师范大学",
+    "school_url": "https://www.icourse163.org/university/FJNU",
+    "school_img": "https://edu-image.nosdn.127.net/A0CD387B9BAA4D1A451F639826090887.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001255001"
+  },
+  {
+    "school_name": "闽江学院",
+    "school_url": "https://www.icourse163.org/university/MJU",
+    "school_img": "https://edu-image.nosdn.127.net/4747E58A1608C01BC0B3092467054D34.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001250001"
+  },
+  {
+    "school_name": "武夷学院",
+    "school_url": "https://www.icourse163.org/university/WYXY",
+    "school_img": "https://edu-image.nosdn.127.net/C235171177C662127D5FAD2596ECD1A8.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203055801"
+  },
+  {
+    "school_name": "华东交通大学",
+    "school_url": "https://www.icourse163.org/university/ECJTU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/cwTxm8yUp43RD8liRNc23A==/1112952057931405008.png",
+    "school_id": "64001"
+  },
+  {
+    "school_name": "江西理工大学",
+    "school_url": "https://www.icourse163.org/university/JXLGDX",
+    "school_img": "https://edu-image.nosdn.127.net/4868FCF8A531DF1EB70961AB5B275F3A.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001572001"
+  },
+  {
+    "school_name": "江西师范大学",
+    "school_url": "https://www.icourse163.org/university/JXNU",
+    "school_img": "https://edu-image.nosdn.127.net/76c37d0647b44ebfa4b93c4d6b7a8e82.jpg",
+    "school_id": "1001478001"
+  },
+  {
+    "school_name": "江西财经大学",
+    "school_url": "https://www.icourse163.org/university/JXUFE",
+    "school_img": "https://edu-image.nosdn.127.net/09F8FC534204E22FC135B9708B75C2D5.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "86002"
+  },
+  {
+    "school_name": "青岛科技大学",
+    "school_url": "https://www.icourse163.org/university/QUST",
+    "school_img": "https://edu-image.nosdn.127.net/D5FE1B34C8F3C934258BEE177814EDBD.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001183001"
+  },
+  {
+    "school_name": "滨州医学院",
+    "school_url": "https://www.icourse163.org/university/BZYXY",
+    "school_img": "https://edu-image.nosdn.127.net/c8d5ea06ad434d948e30f5b589153c16.jpg",
+    "school_id": "1001612001"
+  },
+  {
+    "school_name": "山东中医药大学",
+    "school_url": "https://www.icourse163.org/university/SDUTCM",
+    "school_img": "https://edu-image.nosdn.127.net/1C53F88B15C502247268064B95923542.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001194001"
+  },
+  {
+    "school_name": "河南科技大学",
+    "school_url": "https://www.icourse163.org/university/HAUST",
+    "school_img": "https://edu-image.nosdn.127.net/275A9B0DE31AB813D76C4F0A1F1639E3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001264004"
+  },
+  {
+    "school_name": "河南大学",
+    "school_url": "https://www.icourse163.org/university/HENU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/z7KFLqEd5j6OxBlyTugYWQ==/6630243131978980811.jpg",
+    "school_id": "114001"
+  },
+  {
+    "school_name": "武汉科技大学",
+    "school_url": "https://www.icourse163.org/university/WUST",
+    "school_img": "https://edu-image.nosdn.127.net/E935198E4081CD20D6FF2568E1247347.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001293001"
+  },
+  {
+    "school_name": "长江大学",
+    "school_url": "https://www.icourse163.org/university/YANGTZEU",
+    "school_img": "https://edu-image.nosdn.127.net/59646BD9F2556AC48260E85C297417C8.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001531001"
+  },
+  {
+    "school_name": "武汉纺织大学",
+    "school_url": "https://www.icourse163.org/university/GDY014",
+    "school_img": "https://edu-image.nosdn.127.net/874446B29C403E5B30186B8E7E2E64DB.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444063161"
+  },
+  {
+    "school_name": "湖北大学",
+    "school_url": "https://www.icourse163.org/university/HUBU",
+    "school_img": "https://edu-image.nosdn.127.net/74FCB907062FAF0553A1E0F9187C7DB8.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001303001"
+  },
+  {
+    "school_name": "湖北汽车工业学院",
+    "school_url": "https://www.icourse163.org/university/HUAT",
+    "school_img": "https://edu-image.nosdn.127.net/697CE43D1FA4A735CF588D4D3A4C6A48.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001524001"
+  },
+  {
+    "school_name": "湘潭大学",
+    "school_url": "https://www.icourse163.org/university/XTU",
+    "school_img": "https://edu-image.nosdn.127.net/DDF7FE45A3F46CD46836D31DF3707B39.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001580001"
+  },
+  {
+    "school_name": "湖南农业大学",
+    "school_url": "https://www.icourse163.org/university/HUNAU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/PgwkJQPpqKsW2H78XwH8_A==/6630270619769787431.jpg",
+    "school_id": "119002"
+  },
+  {
+    "school_name": "湖南理工学院",
+    "school_url": "https://www.icourse163.org/university/HNLGXY",
+    "school_img": "https://edu-image.nosdn.127.net/66E434530E61B1AA3BA8E9D73BC7ADC3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202960801"
+  },
+  {
+    "school_name": "衡阳师范学院",
+    "school_url": "https://www.icourse163.org/university/HYNU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/FLl5Bu3aLgXdliGTtaWTaA==/4796333603250060823.jpg",
+    "school_id": "44001"
+  },
+  {
+    "school_name": "长沙师范学院",
+    "school_url": "https://www.icourse163.org/university/CSSF",
+    "school_img": "https://edu-image.nosdn.127.net/49DC59F6C2425144FCB6EA295D7E2A87.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001248001"
+  },
+  {
+    "school_name": "广东海洋大学",
+    "school_url": "https://www.icourse163.org/university/GDOU",
+    "school_img": "https://edu-image.nosdn.127.net/1b334967daf9442fa00b3dbe105e550b.jpg",
+    "school_id": "1202993802"
+  },
+  {
+    "school_name": "广东技术师范大学",
+    "school_url": "https://www.icourse163.org/university/GDIA",
+    "school_img": "https://edu-image.nosdn.127.net/B4A6DC55E23650C8AD1E6E5CD3981994.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001325001"
+  },
+  {
+    "school_name": "深圳大学",
+    "school_url": "https://www.icourse163.org/university/SZU",
+    "school_img": "https://edu-image.nosdn.127.net/441B7AD64977BFF826F1034AFB685154.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001245001"
+  },
+  {
+    "school_name": "桂林电子科技大学",
+    "school_url": "https://www.icourse163.org/university/GLIET",
+    "school_img": "https://edu-image.nosdn.127.net/1B0B8F8E780DF22CFB5988095B61DDC1.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "125002"
+  },
+  {
+    "school_name": "桂林理工大学",
+    "school_url": "https://www.icourse163.org/university/SYXX13",
+    "school_img": "https://edu-image.nosdn.127.net/AE868504B257F02290CCDEE619138C80.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001229003"
+  },
+  {
+    "school_name": "广西医科大学",
+    "school_url": "https://www.icourse163.org/university/GXYK",
+    "school_img": "https://edu-image.nosdn.127.net/cfda3bf120354977bfebb1b88a71236b.jpg",
+    "school_id": "1001216002"
+  },
+  {
+    "school_name": "广西民族大学",
+    "school_url": "https://www.icourse163.org/university/GXMZ",
+    "school_img": "https://edu-image.nosdn.127.net/B762DCB72862914422B0A8C64436CE0B.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001215001"
+  },
+  {
+    "school_name": "南宁师范大学",
+    "school_url": "https://www.icourse163.org/university/gxtc",
+    "school_img": "https://edu-image.nosdn.127.net/0226A2C1C06EE0749C2C98911EC6FE68.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001176002"
+  },
+  {
+    "school_name": "西南石油大学",
+    "school_url": "https://www.icourse163.org/university/SWPU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/_6iZGCyAcaWd8vWKu6w5cg==/6597277574356039911.jpg",
+    "school_id": "48002"
+  },
+  {
+    "school_name": "成都信息工程大学",
+    "school_url": "https://www.icourse163.org/university/CUIT",
+    "school_img": "https://edu-image.nosdn.127.net/52CC3441A2FC3B0AAD2F7B4517B3E8AA-1443273985462?imageView&thumbnail=220y80&quality=100",
+    "school_id": "141001"
+  },
+  {
+    "school_name": "成都中医药大学",
+    "school_url": "https://www.icourse163.org/university/CDUTCM",
+    "school_img": "https://edu-image.nosdn.127.net/D4F11FE6B67C6AA86F22F12F11B20913.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001425001"
+  },
+  {
+    "school_name": "四川师范大学",
+    "school_url": "https://www.icourse163.org/university/SICNU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/AAI5n-WM7yXxzN3vTtlx1A==/2397603851639412266.png",
+    "school_id": "87002"
+  },
+  {
+    "school_name": "西华师范大学",
+    "school_url": "https://www.icourse163.org/university/CWNU",
+    "school_img": "https://edu-image.nosdn.127.net/3D5E2F705BD3820A8592A8DD1126F691.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001442001"
+  },
+  {
+    "school_name": "西南政法大学",
+    "school_url": "https://www.icourse163.org/university/SWUPL",
+    "school_img": "https://edu-image.nosdn.127.net/FA97BD1AA073A30149E668A46582FE14.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001349001"
+  },
+  {
+    "school_name": "四川音乐学院",
+    "school_url": "https://www.icourse163.org/university/SCCM",
+    "school_img": "https://edu-image.nosdn.127.net/ACEC1B131888BDCA91C57B19076EED3A.JPG?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202966801"
+  },
+  {
+    "school_name": "成都工业学院",
+    "school_url": "https://www.icourse163.org/university/CDTU",
+    "school_img": "https://edu-image.nosdn.127.net/BF7D000484E19650CE474BC7BD672F1B.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001342001"
+  },
+  {
+    "school_name": "宁波财经学院",
+    "school_url": "https://www.icourse163.org/university/NBCJXY",
+    "school_img": "https://edu-image.nosdn.127.net/6AB1037732FCC9867825DD697FB1DD96.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203070801"
+  },
+  {
+    "school_name": "昆明理工大学",
+    "school_url": "https://www.icourse163.org/university/KMUST",
+    "school_img": "https://edu-image.nosdn.127.net/8493D97828FA5E6C33B9DD24C39AC111.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001392001"
+  },
+  {
+    "school_name": "云南师范大学",
+    "school_url": "https://www.icourse163.org/university/YNNU",
+    "school_img": "https://edu-image.nosdn.127.net/923C665960B5D0EC012FC2F86D7CBFD7.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001380001"
+  },
+  {
+    "school_name": "西安理工大学",
+    "school_url": "https://www.icourse163.org/university/XAUT",
+    "school_img": "https://edu-image.nosdn.127.net/CECE08AC4401E82D35DF50DAB56474B3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001441001"
+  },
+  {
+    "school_name": "西安工业大学",
+    "school_url": "https://www.icourse163.org/university/XATU",
+    "school_img": "https://edu-image.nosdn.127.net/D2FEFB3CC1CC8D52A77CBF38557FD13C.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001305001"
+  },
+  {
+    "school_name": "西安建筑科技大学",
+    "school_url": "https://www.icourse163.org/university/XAUAT",
+    "school_img": "https://edu-image.nosdn.127.net/5AB40A49FBE655E99F39D8B664A48450.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203020801"
+  },
+  {
+    "school_name": "西安科技大学",
+    "school_url": "https://www.icourse163.org/university/XUST",
+    "school_img": "https://edu-image.nosdn.127.net/2484E91290AC0D83D89D0085351FF7E4.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001379001"
+  },
+  {
+    "school_name": "陕西科技大学",
+    "school_url": "https://www.icourse163.org/university/SUST",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/xJf_aadqTm8TeMWnNSaxEg==/6631246986094031304.jpg",
+    "school_id": "119001"
+  },
+  {
+    "school_name": "西安工程大学",
+    "school_url": "https://www.icourse163.org/university/XPU",
+    "school_img": "https://edu-image.nosdn.127.net/E49D1218736F3373EF70F617AA52EFAA.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001410001"
+  },
+  {
+    "school_name": "西安外国语大学",
+    "school_url": "https://www.icourse163.org/university/SISUEDU",
+    "school_img": "https://edu-image.nosdn.127.net/0D2D423744EFCB9FF50FAD026F47A5AB.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001463002"
+  },
+  {
+    "school_name": "西安邮电大学",
+    "school_url": "https://www.icourse163.org/university/XIYOU",
+    "school_img": "https://edu-image.nosdn.127.net/9B044DE307FB89903BE0C55D3103BE9A.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001173001"
+  },
+  {
+    "school_name": "西北师范大学",
+    "school_url": "https://www.icourse163.org/university/nwnu",
+    "school_img": "https://edu-image.nosdn.127.net/31116F2365D60BAADAD74E62C61DFAC8.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001178002"
+  },
+  {
+    "school_name": "兰州交通大学",
+    "school_url": "https://www.icourse163.org/university/LZJTU",
+    "school_img": "https://edu-image.nosdn.127.net/733EF571EC0CDFC12EF70B030FF65AC5.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001265005"
+  },
+  {
+    "school_name": "河西学院",
+    "school_url": "https://www.icourse163.org/university/HXU",
+    "school_img": "https://edu-image.nosdn.127.net/AED8D7DCC2FB40EAAA03EB5315DA2612.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001462001"
+  },
+  {
+    "school_name": "上海工程技术大学",
+    "school_url": "https://www.icourse163.org/university/sues",
+    "school_img": "https://edu-image.nosdn.127.net/067CF0661A670F2397149AECAE3E437F.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "161001"
+  },
+  {
+    "school_name": "浙江万里学院",
+    "school_url": "https://www.icourse163.org/university/ZJWU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/Qy4PrrnlatP2sNLgDalp4g==/6630356381676643628.jpg",
+    "school_id": "115001"
+  },
+  {
+    "school_name": "宁波工程学院",
+    "school_url": "https://www.icourse163.org/university/NBUT",
+    "school_img": "https://edu-image.nosdn.127.net/0ED077A89632DFF655BB92DF78FE15E4.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202962801"
+  },
+  {
+    "school_name": "广州大学",
+    "school_url": "https://www.icourse163.org/university/GZU",
+    "school_img": "https://edu-image.nosdn.127.net/E2ADE50EB29505E076DB4FBE3DCB5421.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001489004"
+  },
+  {
+    "school_name": "中国人民警察大学",
+    "school_url": "https://www.icourse163.org/university/WJXY",
+    "school_img": "https://edu-image.nosdn.127.net/93A0DD747BA9838624E667BA2B5353B7.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001204001"
+  },
+  {
+    "school_name": "大连大学",
+    "school_url": "https://www.icourse163.org/university/DLU",
+    "school_img": "https://edu-image.nosdn.127.net/EEF099B5045ECC92B32562D8A84F1581.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001168001"
+  },
+  {
+    "school_name": "南京审计大学",
+    "school_url": "https://www.icourse163.org/university/NAU",
+    "school_img": "https://edu-image.nosdn.127.net/955E6E38864B5553A2487B5BBDC5CBBA.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001172001"
+  },
+  {
+    "school_name": "南昌工程学院",
+    "school_url": "https://www.icourse163.org/university/NIT",
+    "school_img": "https://edu-image.nosdn.127.net/C6D85D014D5F0C6FBD04989EAD66FEBB.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202967801"
+  },
+  {
+    "school_name": "北京联合大学",
+    "school_url": "https://www.icourse163.org/university/BUU",
+    "school_img": "https://edu-image.nosdn.127.net/FD3EAD1F8F0995F4A8D3B0CEFA1BD866.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "165001"
+  },
+  {
+    "school_name": "辽宁科技学院",
+    "school_url": "https://www.icourse163.org/university/INIST",
+    "school_img": "https://edu-image.nosdn.127.net/ADEB067EE1C87671FFE7382D44FC894A.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202987802"
+  },
+  {
+    "school_name": "浙江财经大学",
+    "school_url": "https://www.icourse163.org/university/ZUFE",
+    "school_img": "https://edu-image.nosdn.127.net/F9CFA0657515A51E20E36539AADBDA39.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "102001"
+  },
+  {
+    "school_name": "新余学院",
+    "school_url": "https://www.icourse163.org/university/XYC",
+    "school_img": "https://edu-image.nosdn.127.net/849CDE73A1FE46B3C22BC697E656D012.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202996801"
+  },
+  {
+    "school_name": "湖北经济学院",
+    "school_url": "https://www.icourse163.org/university/HBEU",
+    "school_img": "https://edu-image.nosdn.127.net/4413EA99DECCCAF357D815B01F62D29D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001346001"
+  },
+  {
+    "school_name": "海南师范大学",
+    "school_url": "https://www.icourse163.org/university/HAINNU",
+    "school_img": "https://edu-image.nosdn.127.net/5F116AE6B28A0566571FF6B9E3C178AC.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001169001"
+  },
+  {
+    "school_name": "山东工商学院",
+    "school_url": "https://www.icourse163.org/university/CCEC",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/L2dsWNUjR-rPGFjb2bxyTA==/6608249600889284251.png",
+    "school_id": "97001"
+  },
+  {
+    "school_name": "重庆工商大学",
+    "school_url": "https://www.icourse163.org/university/CTBU",
+    "school_img": "https://edu-image.nosdn.127.net/845AA7EE5A397BA259D9CF5AAB748007.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001497002"
+  },
+  {
+    "school_name": "广东工业大学",
+    "school_url": "https://www.icourse163.org/university/GDUT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/tyxoKUA4BqX6WXK6ciaE0w==/6608760873794900084.jpg",
+    "school_id": "66001"
+  },
+  {
+    "school_name": "广东外语外贸大学",
+    "school_url": "https://www.icourse163.org/university/GDUFS",
+    "school_img": "https://mooc-image.nosdn.127.net/5538be4740054c36a87d710f21919c5f.jpg",
+    "school_id": "1001177002"
+  },
+  {
+    "school_name": "湖南第一师范学院",
+    "school_url": "https://www.icourse163.org/university/HDDYSF",
+    "school_img": "https://edu-image.nosdn.127.net/B7F742A7F5A4D78B63C68274A59BB182.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001423001"
+  },
+  {
+    "school_name": "南方医科大学",
+    "school_url": "https://www.icourse163.org/university/SMU",
+    "school_img": "https://edu-image.nosdn.127.net/004B80E0788C5C3C1DB5E7D570B0A2E3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202977801"
+  },
+  {
+    "school_name": "闽南理工学院",
+    "school_url": "https://www.icourse163.org/university/MNLGXY",
+    "school_img": "https://edu-image.nosdn.127.net/2504DA81C2F45BD0B6F091CE54F6CBBC.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203069802"
+  },
+  {
+    "school_name": "南昌工学院",
+    "school_url": "https://www.icourse163.org/university/NCGXY",
+    "school_img": "https://edu-image.nosdn.127.net/E84199729F5E295E8BA85C5A13676676.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "153001"
+  },
+  {
+    "school_name": "北京中医药大学东方学院",
+    "school_url": "https://www.icourse163.org/university/GDY05",
+    "school_img": "https://edu-image.nosdn.127.net/CFF1AB45280EE39D4328C9806B73E5DA.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444051161"
+  },
+  {
+    "school_name": "安徽工业大学",
+    "school_url": "https://www.icourse163.org/university/AHUT",
+    "school_img": "https://edu-image.nosdn.127.net/a3298036da88435eb809d6e96cb7ff16.jpg",
+    "school_id": "1444050161"
+  },
+  {
+    "school_name": "中南民族大学",
+    "school_url": "https://www.icourse163.org/university/SCUEC",
+    "school_img": "https://edu-image.nosdn.127.net/EAFDE1F022EF90A598A2E70B33F95E63.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203083801"
+  },
+  {
+    "school_name": "山东财经大学",
+    "school_url": "https://www.icourse163.org/university/SDCJDX",
+    "school_img": "https://edu-image.nosdn.127.net/115FDBED2447C47D8A02A54FAEF4AC90.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203084801"
+  },
+  {
+    "school_name": "福建医科大学",
+    "school_url": "https://www.icourse163.org/university/FJYKDX",
+    "school_img": "https://edu-image.nosdn.127.net/5A885D7016DADB682F0C76529E78DD4F.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203067802"
+  },
+  {
+    "school_name": "山东科技大学",
+    "school_url": "https://www.icourse163.org/university/SDKJDX",
+    "school_img": "https://edu-image.nosdn.127.net/47EC7CC9F772CD6C7769BDF20DC8B40C.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203079801"
+  },
+  {
+    "school_name": "重庆交通大学",
+    "school_url": "https://www.icourse163.org/university/CQJTDX",
+    "school_img": "https://edu-image.nosdn.127.net/2053B92675229E402CBA283BBAEB1F0F.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203097801"
+  },
+  {
+    "school_name": "湖北中医药大学",
+    "school_url": "https://www.icourse163.org/university/YZYY",
+    "school_img": "https://edu-image.nosdn.127.net/39CB6A58FD72FD18F69CE572144123D7.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444046161"
+  },
+  {
+    "school_name": "安徽师范大学",
+    "school_url": "https://www.icourse163.org/university/AHSF",
+    "school_img": "https://edu-image.nosdn.127.net/DF853BC1471A341931E01819FC794F5F.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444085161"
+  },
+  {
+    "school_name": "西安体育学院",
+    "school_url": "https://www.icourse163.org/university/XPEU",
+    "school_img": "https://edu-image.nosdn.127.net/65DB17C502E867EA239CA7B12D53DCB4.jpeg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444131165"
+  },
+  {
+    "school_name": "山东工艺美术学院",
+    "school_url": "https://www.icourse163.org/university/SUAD",
+    "school_img": "https://edu-image.nosdn.127.net/c56c833253d141bfbc4bddac051bb8ba.jpg",
+    "school_id": "1444164161"
+  },
+  {
+    "school_name": "潍坊医学院",
+    "school_url": "https://www.icourse163.org/university/GDY227",
+    "school_img": "https://edu-image.nosdn.127.net/3F85EB8FF3BD44E6DF0ADDBB76D94872.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444186161"
+  },
+  {
+    "school_name": "中国民用航空飞行学院",
+    "school_url": "https://www.icourse163.org/university/GDY299",
+    "school_img": "https://mooc-image.nosdn.127.net/8076cec424d147ecb534e66421e8cc5a.jpg",
+    "school_id": "1444210161"
+  },
+  {
+    "school_name": "广西艺术学院",
+    "school_url": "https://www.icourse163.org/university/GXAU",
+    "school_img": "https://edu-image.nosdn.127.net/3a11a6e65ac74d6a87582790616d810f.jpg",
+    "school_id": "1444290161"
+  },
+  {
+    "school_name": "沈阳工程学院",
+    "school_url": "https://www.icourse163.org/university/SIE",
+    "school_img": "https://edu-image.nosdn.127.net/499e107d8f094210b67d1c14eeed0615.jpg",
+    "school_id": "1444129162"
+  },
+  {
+    "school_name": "黑龙江八一农垦大学",
+    "school_url": "https://www.icourse163.org/university/BYAU",
+    "school_img": "https://edu-image.nosdn.127.net/68DA3FB1314BACF62012A462084A2077.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444200162"
+  },
+  {
+    "school_name": "东北电力大学",
+    "school_url": "https://www.icourse163.org/university/NEEPU",
+    "school_img": "https://edu-image.nosdn.127.net/A29F69649CDBF65D031176B8D30569BB.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444247161"
+  },
+  {
+    "school_name": "淮北师范大学",
+    "school_url": "https://www.icourse163.org/university/CHNU",
+    "school_img": "https://edu-image.nosdn.127.net/1DDF377A824DB70EEBB1105E8F00E891.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444338161"
+  },
+  {
+    "school_name": "阿坝师范学院",
+    "school_url": "https://www.icourse163.org/university/ABTU",
+    "school_img": "https://edu-image.nosdn.127.net/2CE5C677C888CF84593E237BECD8BDE1.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444351161"
+  },
+  {
+    "school_name": "湖南女子学院",
+    "school_url": "https://www.icourse163.org/university/HNND",
+    "school_img": "https://edu-image.nosdn.127.net/86398DA0D9AB0843A64FEB421625E059.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444353161"
+  },
+  {
+    "school_name": "南华大学",
+    "school_url": "https://www.icourse163.org/university/NHDX",
+    "school_img": "https://edu-image.nosdn.127.net/4E71969C249A29AD72DAC13B0AAB711E.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203081801"
+  },
+  {
+    "school_name": "桂林医学院",
+    "school_url": "https://www.icourse163.org/university/GLYXY",
+    "school_img": "https://edu-image.nosdn.127.net/800814AF1561953DB78A1033DD5E4256.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203106801"
+  },
+  {
+    "school_name": "景德镇陶瓷大学",
+    "school_url": "https://www.icourse163.org/university/JDZTCDX",
+    "school_img": "https://mooc-image.nosdn.127.net/2cff0ce56abf4f3f979793d152617626.png",
+    "school_id": "1001571002"
+  },
+  {
+    "school_name": "九江学院",
+    "school_url": "https://www.icourse163.org/university/JJXY",
+    "school_img": "https://edu-image.nosdn.127.net/0F0A98C4676291487C857258B2ACA545.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203090801"
+  },
+  {
+    "school_name": "青岛大学",
+    "school_url": "https://www.icourse163.org/university/QDU",
+    "school_img": "https://edu-image.nosdn.127.net/B64F3D67F0D4890072895977F2458AED-1441765019842?imageView&thumbnail=220y80&quality=100",
+    "school_id": "131002"
+  },
+  {
+    "school_name": "浙大城市学院",
+    "school_url": "https://www.icourse163.org/university/ZUCC",
+    "school_img": "https://edu-image.nosdn.127.net/FC4CD3DCED9202B0796AA0FD504329B3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "77001"
+  },
+  {
+    "school_name": "贵州理工学院",
+    "school_url": "https://www.icourse163.org/university/GIT",
+    "school_img": "https://edu-image.nosdn.127.net/C3D76017F990AB9C07235092BCF9E76B.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "90001"
+  },
+  {
+    "school_name": "长沙学院",
+    "school_url": "https://www.icourse163.org/university/CCSU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/JmaEOFG7LViaNtENML_yIQ==/638666722174491510.jpg",
+    "school_id": "99001"
+  },
+  {
+    "school_name": "温州医科大学",
+    "school_url": "https://www.icourse163.org/university/WMU",
+    "school_img": "https://edu-image.nosdn.127.net/A91FF25334C5C5EF1027D761FA6A0590.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001484002"
+  },
+  {
+    "school_name": "成都理工大学",
+    "school_url": "https://www.icourse163.org/university/CDLGDX",
+    "school_img": "https://mooc-image.nosdn.127.net/525e37da0719443c8d474feae0acd40a.png",
+    "school_id": "1001234001"
+  },
+  {
+    "school_name": "成都大学",
+    "school_url": "https://www.icourse163.org/university/CDU",
+    "school_img": "https://edu-image.nosdn.127.net/33528CA054726EF9F21F1AA6F1D060C8.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001395001"
+  },
+  {
+    "school_name": "岭南师范学院",
+    "school_url": "https://www.icourse163.org/university/LNU",
+    "school_img": "https://edu-image.nosdn.127.net/A8A2147D7DB2651D2F4DEC61D4D0BFC8.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001481001"
+  },
+  {
+    "school_name": "汕头大学",
+    "school_url": "https://www.icourse163.org/university/STDX",
+    "school_img": "https://edu-image.nosdn.127.net/DD26117CA28C53A795A66C9EEF3BD068.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203032801"
+  },
+  {
+    "school_name": "北方工业大学",
+    "school_url": "https://www.icourse163.org/university/NCUT",
+    "school_img": "https://edu-image.nosdn.127.net/A368E92C66EBE4C52357C2A9687ED0C7.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203060801"
+  },
+  {
+    "school_name": "重庆医科大学",
+    "school_url": "https://www.icourse163.org/university/cqmu",
+    "school_img": "https://edu-image.nosdn.127.net/8c34165d850840db805ea5868f006720.png",
+    "school_id": "1203134803"
+  },
+  {
+    "school_name": "西安美术学院",
+    "school_url": "https://www.icourse163.org/university/XAFA",
+    "school_img": "https://edu-image.nosdn.127.net/D3A470CE693A4A17978B5526978D8684.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444153163"
+  },
+  {
+    "school_name": "陇东学院",
+    "school_url": "https://www.icourse163.org/university/IDXY",
+    "school_img": "https://edu-image.nosdn.127.net/B3483C3D538DA3CF3DA542FECECCB3B9-1442802800713?imageView&thumbnail=220y80&quality=100",
+    "school_id": "129001"
+  },
+  {
+    "school_name": "中南林业科技大学",
+    "school_url": "https://www.icourse163.org/university/CSUFT",
+    "school_img": "https://edu-image.nosdn.127.net/07FD77AD2CD43F960BF3D2545E7C8E83.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203140802"
+  },
+  {
+    "school_name": "北方民族大学",
+    "school_url": "https://www.icourse163.org/university/NUN",
+    "school_img": "https://edu-image.nosdn.127.net/C7BA9B367088D9E784A19F645506F3AE.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203189802"
+  },
+  {
+    "school_name": "浙江水利水电学院",
+    "school_url": "https://www.icourse163.org/university/zjweu",
+    "school_img": "https://edu-image.nosdn.127.net/275d38b792394c6e9ce3eb9c15067263.png",
+    "school_id": "1444547522"
+  },
+  {
+    "school_name": "西藏民族大学",
+    "school_url": "https://www.icourse163.org/university/XZMY",
+    "school_img": "https://edu-image.nosdn.127.net/BBF0F7CB380890611491783006036E76.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001308001"
+  },
+  {
+    "school_name": "太原工业学院",
+    "school_url": "https://www.icourse163.org/university/TIT",
+    "school_img": "https://edu-image.nosdn.127.net/BE3682732A623D83D571D73B5448EFA2.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001516001"
+  },
+  {
+    "school_name": "广州中医药大学",
+    "school_url": "https://www.icourse163.org/university/GZZYY",
+    "school_img": "https://edu-image.nosdn.127.net/CA928AF3A9D076B6F92E63B9C32BF426.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203031801"
+  },
+  {
+    "school_name": "长沙理工大学",
+    "school_url": "https://www.icourse163.org/university/CSLGDX",
+    "school_img": "https://edu-image.nosdn.127.net/81AE596FBC45839943774A90D1A73572.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203042801"
+  },
+  {
+    "school_name": "呼伦贝尔学院",
+    "school_url": "https://www.icourse163.org/university/HLBRC",
+    "school_img": "https://edu-image.nosdn.127.net/C9A903C7FC82D3E0A71B59A784D5E284.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203193801"
+  },
+  {
+    "school_name": "四川美术学院",
+    "school_url": "https://www.icourse163.org/university/SFAI",
+    "school_img": "https://edu-image.nosdn.127.net/12EBB9E4EF9F84E78B4CE1E971C74D90.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203213801"
+  },
+  {
+    "school_name": "云南财经大学",
+    "school_url": "https://www.icourse163.org/university/YNUFE",
+    "school_img": "https://edu-image.nosdn.127.net/214D2A4334F40B462DB817085D0372CA.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444126161"
+  },
+  {
+    "school_name": "中华女子学院",
+    "school_url": "https://www.icourse163.org/university/CWU",
+    "school_img": "https://edu-image.nosdn.127.net/C5844FBA68F97F7182A8559E773C6D84.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444127161"
+  },
+  {
+    "school_name": "福州外语外贸学院",
+    "school_url": "https://www.icourse163.org/university/FZFU",
+    "school_img": "https://edu-image.nosdn.127.net/88FECBA492E3885013F11B0932ADF360.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202959801"
+  },
+  {
+    "school_name": "黄淮学院",
+    "school_url": "https://www.icourse163.org/university/HHUN",
+    "school_img": "https://edu-image.nosdn.127.net/AA2EFD396170E9EA5CBE9F7E6171327F.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203102801"
+  },
+  {
+    "school_name": "安徽农业大学",
+    "school_url": "https://www.icourse163.org/university/AHAU",
+    "school_img": "https://edu-image.nosdn.127.net/BEBA2840591265F371FBC5C5DC38595D.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203138801"
+  },
+  {
+    "school_name": "吉林体育学院",
+    "school_url": "https://www.icourse163.org/university/GLSU",
+    "school_img": "https://edu-image.nosdn.127.net/7EA1F5DEBC9B043E3717FEF5049E0B11.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203049802"
+  },
+  {
+    "school_name": "武汉轻工大学",
+    "school_url": "https://www.icourse163.org/university/WHPU",
+    "school_img": "https://edu-image.nosdn.127.net/C8E1A58F4B236DACCB6A0802BC56BD31.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203126802"
+  },
+  {
+    "school_name": "兰州石化职业技术大学",
+    "school_url": "https://www.icourse163.org/university/LZPCC",
+    "school_img": "https://edu-image.nosdn.127.net/AE2DEBED09E9EF7F8FCED769D9A51C25.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203011801"
+  },
+  {
+    "school_name": "广州美术学院",
+    "school_url": "https://www.icourse163.org/university/GZARTS",
+    "school_img": "https://edu-image.nosdn.127.net/BAE09BDB1063D646358D9271688700CC.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203022801"
+  },
+  {
+    "school_name": "合肥师范学院",
+    "school_url": "https://www.icourse163.org/university/HFNU",
+    "school_img": "https://edu-image.nosdn.127.net/DAA239DE3ED8A1A97ACB62AD1BC972BC.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203028801"
+  },
+  {
+    "school_name": "广州体育学院",
+    "school_url": "https://www.icourse163.org/university/GIPE",
+    "school_img": "https://edu-image.nosdn.127.net/94BB705A753979008C351FDF240E8A40.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203029801"
+  },
+  {
+    "school_name": "山东体育学院",
+    "school_url": "https://www.icourse163.org/university/SSU",
+    "school_img": "https://edu-image.nosdn.127.net/00F642D611BE1AF8349AC55AB11AE5E5.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203041801"
+  },
+  {
+    "school_name": "成都体育学院",
+    "school_url": "https://www.icourse163.org/university/CDSU",
+    "school_img": "https://edu-image.nosdn.127.net/62E93D881D49B09F97EA5EE74CD9E3EE.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203050801"
+  },
+  {
+    "school_name": "锦州医科大学",
+    "school_url": "https://www.icourse163.org/university/INMU",
+    "school_img": "https://edu-image.nosdn.127.net/3ACBC77D2947F8862DFE5D49F7C24DD2.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203052801"
+  },
+  {
+    "school_name": "豫章师范学院",
+    "school_url": "https://www.icourse163.org/university/YUZNU",
+    "school_img": "https://edu-image.nosdn.127.net/A6D21E2666E31647D84751ABE576F350.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203054801"
+  },
+  {
+    "school_name": "武汉体育学院",
+    "school_url": "https://www.icourse163.org/university/WHSU",
+    "school_img": "https://edu-image.nosdn.127.net/D863874F42087F6D5F7C2C5B842949D2.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203100801"
+  },
+  {
+    "school_name": "上海立信会计金融学院",
+    "school_url": "https://www.icourse163.org/university/LIXIN",
+    "school_img": "https://edu-image.nosdn.127.net/020340A1085FF9579A24AB712386A35F.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203109801"
+  },
+  {
+    "school_name": "湖北文理学院",
+    "school_url": "https://www.icourse163.org/university/HBUAS",
+    "school_img": "https://edu-image.nosdn.127.net/2BD3F03F8F6347729FD736E40BF47AAD.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203116801"
+  },
+  {
+    "school_name": "广东开放大学",
+    "school_url": "https://www.icourse163.org/university/gdrtvu",
+    "school_img": "https://edu-image.nosdn.127.net/EB57B8CBE57D73710856C49DA40B18BA.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203118801"
+  },
+  {
+    "school_name": "新疆财经大学",
+    "school_url": "https://www.icourse163.org/university/XJUFE",
+    "school_img": "https://edu-image.nosdn.127.net/608A6A2864F1E9B4AFF511CDB4A5EF0E.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203120801"
+  },
+  {
+    "school_name": "德州职业技术学院",
+    "school_url": "https://www.icourse163.org/university/DZVC",
+    "school_img": "https://edu-image.nosdn.127.net/ACBD9C5A548313952FE383FFE862AE0B.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203139801"
+  },
+  {
+    "school_name": "山西农业大学",
+    "school_url": "https://www.icourse163.org/university/SXAU",
+    "school_img": "https://edu-image.nosdn.127.net/41DE93FAA2B9527E2F001042B5FB8E37.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203149801"
+  },
+  {
+    "school_name": "西南医科大学",
+    "school_url": "https://www.icourse163.org/university/SWMU",
+    "school_img": "https://edu-image.nosdn.127.net/f5037be7fa52407cad634922c4973393.jpg",
+    "school_id": "1443972161"
+  },
+  {
+    "school_name": "西安航空学院",
+    "school_url": "https://www.icourse163.org/university/XAAU",
+    "school_img": "https://mooc-image.nosdn.127.net/edc6e97f24294090a8c0bb07e89a65f0.png",
+    "school_id": "1444124161"
+  },
+  {
+    "school_name": "四川旅游学院",
+    "school_url": "https://www.icourse163.org/university/STC",
+    "school_img": "https://edu-image.nosdn.127.net/85F7205D8E2DA3539ADA60C8D31CB1C9.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444506161"
+  },
+  {
+    "school_name": "首都医科大学",
+    "school_url": "https://www.icourse163.org/university/CCMU",
+    "school_img": "https://edu-image.nosdn.127.net/8C569406B17A1CD24CD705C5548AC712.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444545161"
+  },
+  {
+    "school_name": "培训需求学校",
+    "school_url": "https://www.icourse163.org/university/PXXQXX",
+    "school_img": "https://edu-image.nosdn.127.net/a6e636c0614149d09b3d2339d8df5dd2.jpg",
+    "school_id": "1444645161"
+  },
+  {
+    "school_name": "天津传媒学院",
+    "school_url": "https://www.icourse163.org/university/TJYYWH",
+    "school_img": "https://edu-image.nosdn.127.net/768076BC507A608C2AE2380ED9C2919B.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001397007"
+  },
+  {
+    "school_name": "天津工业大学",
+    "school_url": "https://www.icourse163.org/university/TJGYDX",
+    "school_img": "https://edu-image.nosdn.127.net/67cca21d012a4707b70a5317d3652681.jpg",
+    "school_id": "1001396002"
+  },
+  {
+    "school_name": "天津商业大学",
+    "school_url": "https://www.icourse163.org/university/TJSYDX",
+    "school_img": "https://edu-image.nosdn.127.net/BBFB7C6E4D40FFF6D5BF665AA34C5F17.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001398002"
+  },
+  {
+    "school_name": "山东交通学院",
+    "school_url": "https://www.icourse163.org/university/SDJTU",
+    "school_img": "https://mooc-image.nosdn.127.net/7799386453b64ed2b3a0a31cacfac4a6.jpg",
+    "school_id": "1203094801"
+  },
+  {
+    "school_name": "浙江海洋大学",
+    "school_url": "https://www.icourse163.org/university/ZJHY",
+    "school_img": "https://edu-image.nosdn.127.net/3C52D0B428F5E544D83DEA24EC9E6492.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203173801"
+  },
+  {
+    "school_name": "燕山大学",
+    "school_url": "https://www.icourse163.org/university/YSU",
+    "school_img": "https://edu-image.nosdn.127.net/EEE6B83F99D29C3E2132CB116E23E683.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "128001"
+  },
+  {
+    "school_name": "河北经贸大学",
+    "school_url": "https://www.icourse163.org/university/HEUET",
+    "school_img": "https://edu-image.nosdn.127.net/2C5E8EE311AE21A0F8D63713E6241940.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001508001"
+  },
+  {
+    "school_name": "西华大学",
+    "school_url": "https://www.icourse163.org/university/XHDX",
+    "school_img": "https://mooc-image.nosdn.127.net/e238d2b06a514298b1d1b7986158d422.png",
+    "school_id": "1001586004"
+  },
+  {
+    "school_name": "延安大学",
+    "school_url": "https://www.icourse163.org/university/YADX",
+    "school_img": "https://edu-image.nosdn.127.net/B1D438AD2537E8395963F8CC62BA66A7.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001463001"
+  },
+  {
+    "school_name": "南昌航空大学",
+    "school_url": "https://www.icourse163.org/university/NCHKDX",
+    "school_img": "https://edu-image.nosdn.127.net/4F3F44EC96E7C457116E918B4541B832.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001570001"
+  },
+  {
+    "school_name": "河北医科大学",
+    "school_url": "https://www.icourse163.org/university/HJYK",
+    "school_img": "https://edu-image.nosdn.127.net/7BF125DD16BDAD12126B85CC25241E55.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001585001"
+  },
+  {
+    "school_name": "安庆师范大学",
+    "school_url": "https://www.icourse163.org/university/AQNU",
+    "school_img": "https://edu-image.nosdn.127.net/B764E17E7FF6C013528892C36594B9FC.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444153162"
+  },
+  {
+    "school_name": "闽南师范大学",
+    "school_url": "https://www.icourse163.org/university/MNNU",
+    "school_img": "https://edu-image.nosdn.127.net/BB87CE3F3BCE9B3B0037BAEE36DA9DBC.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202993801"
+  },
+  {
+    "school_name": "浙江音乐学院",
+    "school_url": "https://www.icourse163.org/university/ZJYY",
+    "school_img": "https://edu-image.nosdn.127.net/EFDBEEAE129B671655746147B9AEBDD0.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203013801"
+  },
+  {
+    "school_name": "南京工业大学",
+    "school_url": "https://www.icourse163.org/university/NJTECH",
+    "school_img": "https://edu-image.nosdn.127.net/5BFF92B0BE6ECE2C59AF15B022D7EBA0.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237003"
+  },
+  {
+    "school_name": "常州工学院",
+    "school_url": "https://www.icourse163.org/university/CZU",
+    "school_img": "https://edu-image.nosdn.127.net/ACB4FC68546AC72953D7F7277ADAD82C.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237007"
+  },
+  {
+    "school_name": "宿迁学院",
+    "school_url": "https://www.icourse163.org/university/SQC",
+    "school_img": "https://edu-image.nosdn.127.net/20fc535f17ce405887179f53f77dc0eb.png",
+    "school_id": "1001237011"
+  },
+  {
+    "school_name": "江苏海洋大学",
+    "school_url": "https://www.icourse163.org/university/HHIT",
+    "school_img": "https://edu-image.nosdn.127.net/4DE86EDFCFF009B8DA0DF769D09CDE3D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001240004"
+  },
+  {
+    "school_name": "南京医科大学",
+    "school_url": "https://www.icourse163.org/university/NMU",
+    "school_img": "https://edu-image.nosdn.127.net/C7352034BF98B31FD84BD602B73A06E4.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238003"
+  },
+  {
+    "school_name": "常州大学",
+    "school_url": "https://www.icourse163.org/university/CCZU",
+    "school_img": "https://edu-image.nosdn.127.net/4aa9e25d349a4a83993214cbc0e50b15.png",
+    "school_id": "1001238007"
+  },
+  {
+    "school_name": "苏州科技大学",
+    "school_url": "https://www.icourse163.org/university/USTS",
+    "school_img": "https://edu-image.nosdn.127.net/A16D9F79C55BFA250A42D11E223DDD57.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "40001"
+  },
+  {
+    "school_name": "淮阴工学院",
+    "school_url": "https://www.icourse163.org/university/HYIT",
+    "school_img": "https://edu-image.nosdn.127.net/46D298CDD3BB31916BFF7B9CD0139F08.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238011"
+  },
+  {
+    "school_name": "南京晓庄学院",
+    "school_url": "https://www.icourse163.org/university/NJXZC",
+    "school_img": "https://edu-image.nosdn.127.net/866EF56FD9AE253A91E832A42BF53683.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001239003"
+  },
+  {
+    "school_name": "徐州工程学院",
+    "school_url": "https://www.icourse163.org/university/XZIT",
+    "school_img": "https://edu-image.nosdn.127.net/B6FAC7ACBC761414D94A5CA9E84F25A8.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001240003"
+  },
+  {
+    "school_name": "江苏开放大学",
+    "school_url": "https://www.icourse163.org/university/JSOU",
+    "school_img": "https://edu-image.nosdn.127.net/2EAC3DC21226EE6D791FF0BE7F31656A.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001243016"
+  },
+  {
+    "school_name": "江苏师范大学",
+    "school_url": "https://www.icourse163.org/university/XZNU",
+    "school_img": "https://edu-image.nosdn.127.net/A53D3664B32C8E02EBEEE1BF4B40C7C3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001233002"
+  },
+  {
+    "school_name": "南京林业大学",
+    "school_url": "https://www.icourse163.org/university/NJFU",
+    "school_img": "https://edu-image.nosdn.127.net/90D5662867394CFA2743BB19EA43D62D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237002"
+  },
+  {
+    "school_name": "江苏理工学院",
+    "school_url": "https://www.icourse163.org/university/JSTU",
+    "school_img": "https://edu-image.nosdn.127.net/8F97384AFD6AD7781894FCC85E090B7D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237006"
+  },
+  {
+    "school_name": "泰州学院",
+    "school_url": "https://www.icourse163.org/university/TZSZ",
+    "school_img": "https://edu-image.nosdn.127.net/CD5D70B9EF2761E8C09BB5A1F7DCA629.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237010"
+  },
+  {
+    "school_name": "南京信息工程大学",
+    "school_url": "https://www.icourse163.org/university/NUIST",
+    "school_img": "https://edu-image.nosdn.127.net/E274DDA8CF8D82EC70F2B292F29BE152.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238002"
+  },
+  {
+    "school_name": "江苏第二师范学院",
+    "school_url": "https://www.icourse163.org/university/JSIE",
+    "school_img": "https://edu-image.nosdn.127.net/F7FCE532E2CD25621AC87255B5B72F03.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238006"
+  },
+  {
+    "school_name": "江苏科技大学",
+    "school_url": "https://www.icourse163.org/university/JUST",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/TeL3mtBMVppw2tw0igy6fg==/6619069894817210969.jpg",
+    "school_id": "78001"
+  },
+  {
+    "school_name": "徐州医科大学",
+    "school_url": "https://www.icourse163.org/university/XZMC",
+    "school_img": "https://edu-image.nosdn.127.net/10257855F6D19C5220373A76935F9C05.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238010"
+  },
+  {
+    "school_name": "东南大学成贤学院",
+    "school_url": "https://www.icourse163.org/university/SEUCXXY",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/Gy6ZHQRSQXqiCdveXIpYGA==/6630452039187149596.jpg",
+    "school_id": "87001"
+  },
+  {
+    "school_name": "南京艺术学院",
+    "school_url": "https://www.icourse163.org/university/NJARTY",
+    "school_img": "https://edu-image.nosdn.127.net/99B0A13515267172501F0BC41D7C6E17.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001239002"
+  },
+  {
+    "school_name": "金陵科技学院",
+    "school_url": "https://www.icourse163.org/university/JIT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/BZFDHWUDU5cC3f784mUwbg==/2450239672284172493.jpg",
+    "school_id": "89001"
+  },
+  {
+    "school_name": "扬州大学",
+    "school_url": "https://www.icourse163.org/university/YZU",
+    "school_img": "https://edu-image.nosdn.127.net/5FCD7934F70F8FB4794ABA2B5CEF44D8.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001239006"
+  },
+  {
+    "school_name": "南通大学",
+    "school_url": "https://www.icourse163.org/university/NTU",
+    "school_img": "https://edu-image.nosdn.127.net/B604363DC8876ED8DD1ECC16E817CCC7.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001240002"
+  },
+  {
+    "school_name": "南京理工大学泰州科技学院",
+    "school_url": "https://www.icourse163.org/university/NUSTTI",
+    "school_img": "https://edu-image.nosdn.127.net/CEE81D7A6DB96006F942AC5586DE7F1C.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001590003"
+  },
+  {
+    "school_name": "三江学院",
+    "school_url": "https://www.icourse163.org/university/SJU",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/I9pw2cK-d-Yxlx5sGnSaWQ==/6630391566048255370.png",
+    "school_id": "93001"
+  },
+  {
+    "school_name": "南京工程学院",
+    "school_url": "https://www.icourse163.org/university/NJIT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/7vcUZR7C_06beBAZnm_-3A==/6630616965932152893.jpg",
+    "school_id": "96001"
+  },
+  {
+    "school_name": "盐城师范学院",
+    "school_url": "https://www.icourse163.org/university/YCTC",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/Dz3Ri1EIJLKUJzsVhHUaPQ==/6630425650909355838.jpg",
+    "school_id": "123001"
+  },
+  {
+    "school_name": "南京特殊教育师范学院",
+    "school_url": "https://www.icourse163.org/university/NJTY",
+    "school_img": "https://edu-image.nosdn.127.net/B7B6B23C08346874A55E2F0450E0065C.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "133001"
+  },
+  {
+    "school_name": "南京理工大学紫金学院",
+    "school_url": "https://www.icourse163.org/university/ZJNJUST",
+    "school_img": "https://edu-image.nosdn.127.net/F16A9C6B2992378E754681CA835D6795.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001586002"
+  },
+  {
+    "school_name": "江苏师范大学科文学院",
+    "school_url": "https://www.icourse163.org/university/KWXY",
+    "school_img": "https://edu-image.nosdn.127.net/B56F8C86806A2C4AA712B6E7EA5F2416.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001587002"
+  },
+  {
+    "school_name": "江苏科技大学苏州理工学院",
+    "school_url": "https://www.icourse163.org/university/SZLGJUST",
+    "school_img": "https://edu-image.nosdn.127.net/0BDC382DF71938FF1147307F6C3BDEE7.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001588002"
+  },
+  {
+    "school_name": "苏州城市学院",
+    "school_url": "https://www.icourse163.org/university/SDWZ",
+    "school_img": "https://mooc-image.nosdn.127.net/964e419464ab4331b7501eadb5e8d79c.png",
+    "school_id": "1001590002"
+  },
+  {
+    "school_name": "南京师范大学泰州学院",
+    "school_url": "https://www.icourse163.org/university/NNUTC",
+    "school_img": "https://edu-image.nosdn.127.net/3D91D9FCBBC682B355095A6F43E1597B.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001591002"
+  },
+  {
+    "school_name": "常熟理工学院",
+    "school_url": "https://www.icourse163.org/university/CSLG",
+    "school_img": "https://edu-image.nosdn.127.net/5D755CC8B5233AB076B6E1D31C005E5A.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001167001"
+  },
+  {
+    "school_name": "南京财经大学",
+    "school_url": "https://www.icourse163.org/university/NJUE",
+    "school_img": "https://edu-image.nosdn.127.net/ADC8F19081A3CCBB16B6DD86179127AF.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001209001"
+  },
+  {
+    "school_name": "淮阴师范学院",
+    "school_url": "https://www.icourse163.org/university/HYTC",
+    "school_img": "https://edu-image.nosdn.127.net/57A815D8DD74E3CCC263ADFA97649D13.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001235001"
+  },
+  {
+    "school_name": "无锡太湖学院",
+    "school_url": "https://www.icourse163.org/university/THXY",
+    "school_img": "https://edu-image.nosdn.127.net/88505C0A7931769560E226E1177CC95D.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001237009"
+  },
+  {
+    "school_name": "南京森林警察学院",
+    "school_url": "https://www.icourse163.org/university/FORESTPOLICE",
+    "school_img": "https://edu-image.nosdn.127.net/1CC227B4342C94F3C8344D707B220784.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238005"
+  },
+  {
+    "school_name": "南通理工学院",
+    "school_url": "https://www.icourse163.org/university/ZLVC",
+    "school_img": "https://edu-image.nosdn.127.net/2C0A8142FD8B6B3212CEB013045AB7DD.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001238009"
+  },
+  {
+    "school_name": "江苏警官学院",
+    "school_url": "https://www.icourse163.org/university/JSPI",
+    "school_img": "https://edu-image.nosdn.127.net/D5E57B12C14E04D06F57AC58AC31B57D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001240001"
+  },
+  {
+    "school_name": "南京审计大学金审学院",
+    "school_url": "https://www.icourse163.org/university/JSXY",
+    "school_img": "https://edu-image.nosdn.127.net/007D4351D05B45C495ED7DB92F3CB960.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001465001"
+  },
+  {
+    "school_name": "南京大学金陵学院",
+    "school_url": "https://www.icourse163.org/university/JLXY",
+    "school_img": "https://edu-image.nosdn.127.net/8134E9B2A7AC675A58DE549C81D3D1B3.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001586001"
+  },
+  {
+    "school_name": "无锡学院",
+    "school_url": "https://www.icourse163.org/university/BJXY",
+    "school_img": "https://edu-image.nosdn.127.net/69BB983EB08655633348E2FEEF6ACBA2.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001587001"
+  },
+  {
+    "school_name": "南京师范大学中北学院",
+    "school_url": "https://www.icourse163.org/university/ZBNJNU",
+    "school_img": "https://edu-image.nosdn.127.net/D9AFDA12A616FF23FA6219A5CDA77352.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001589001"
+  },
+  {
+    "school_name": "南京财经大学红山学院",
+    "school_url": "https://www.icourse163.org/university/HSNUFE",
+    "school_img": "https://edu-image.nosdn.127.net/9B5DBAB11EE3FB3F4107DE474990B151.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001590001"
+  },
+  {
+    "school_name": "苏州科技大学天平学院",
+    "school_url": "https://www.icourse163.org/university/TPXY",
+    "school_img": "https://edu-image.nosdn.127.net/B518FDC41C2D668DC8F77168FDE12398.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001591001"
+  },
+  {
+    "school_name": "中国矿业大学徐海学院",
+    "school_url": "https://www.icourse163.org/university/XHXY",
+    "school_img": "https://edu-image.nosdn.127.net/581C5EB06A16D967724EF6ADBCE8BC9E.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001592001"
+  },
+  {
+    "school_name": "南京传媒学院",
+    "school_url": "https://www.icourse163.org/university/CUCN",
+    "school_img": "https://edu-image.nosdn.127.net/07E05DD0A4C65AFFE1EA4DC0834F9517.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203155801"
+  },
+  {
+    "school_name": "河南理工大学",
+    "school_url": "https://www.icourse163.org/university/HPU",
+    "school_img": "https://edu-image.nosdn.127.net/01C104B517758A36B0F48ACDB92734E5.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001261004"
+  },
+  {
+    "school_name": "开封大学",
+    "school_url": "https://www.icourse163.org/university/KFU",
+    "school_img": "https://edu-image.nosdn.127.net/8535FFB9B03C44E13FB0170A33692C3A.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001262004"
+  },
+  {
+    "school_name": "洛阳师范学院",
+    "school_url": "https://www.icourse163.org/university/LYNC",
+    "school_img": "https://edu-image.nosdn.127.net/CA95A6775E451E0E18ACCC097650A5AA.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001261011"
+  },
+  {
+    "school_name": "平顶山学院",
+    "school_url": "https://www.icourse163.org/university/PDSU",
+    "school_img": "https://edu-image.nosdn.127.net/D6F7981727E3ED05ED172A550684A96C.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001261014"
+  },
+  {
+    "school_name": "黄河科技学院",
+    "school_url": "https://www.icourse163.org/university/HHSTU",
+    "school_img": "https://edu-image.nosdn.127.net/B657075BC89E6CF2B4DFF858014DE9C8.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001359002"
+  },
+  {
+    "school_name": "周口师范学院",
+    "school_url": "https://www.icourse163.org/university/ZKNU",
+    "school_img": "https://edu-image.nosdn.127.net/f727511e6e5148678b4a34d6ee00a769.png",
+    "school_id": "1001361006"
+  },
+  {
+    "school_name": "黄河交通学院",
+    "school_url": "https://www.icourse163.org/university/ZJTU",
+    "school_img": "https://edu-image.nosdn.127.net/7307FAAA6AC09DFE3FE976D2E7A1F863.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001494002"
+  },
+  {
+    "school_name": "中原工学院",
+    "school_url": "https://www.icourse163.org/university/ZZTI",
+    "school_img": "https://edu-image.nosdn.127.net/9107132960D4E2E809959D78503AE512.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "142001"
+  },
+  {
+    "school_name": "安阳工学院",
+    "school_url": "https://www.icourse163.org/university/AYIT",
+    "school_img": "https://edu-image.nosdn.127.net/1AE051F53D99768067C9949C8F91460B.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001259001"
+  },
+  {
+    "school_name": "河南中医药大学",
+    "school_url": "https://www.icourse163.org/university/HACTCM",
+    "school_img": "https://edu-image.nosdn.127.net/4F5227F9A4EFADEB89A396C7458106B6.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001261009"
+  },
+  {
+    "school_name": "洛阳理工学院",
+    "school_url": "https://www.icourse163.org/university/LIT",
+    "school_img": "https://edu-image.nosdn.127.net/2E6C1CADD9CD0AA8158C5EB0EE09E048.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001262005"
+  },
+  {
+    "school_name": "河南城建学院",
+    "school_url": "https://www.icourse163.org/university/HNCJ",
+    "school_img": "https://edu-image.nosdn.127.net/92624AF8B67347639869A068804CBC86.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001263001"
+  },
+  {
+    "school_name": "河南师范大学",
+    "school_url": "https://www.icourse163.org/university/HENANNU",
+    "school_img": "https://edu-image.nosdn.127.net/6F61E38D80660C34924CDF5E4F7D2C82.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001264005"
+  },
+  {
+    "school_name": "河南农业大学",
+    "school_url": "https://www.icourse163.org/university/HENAU",
+    "school_img": "https://edu-image.nosdn.127.net/5725223100865A0EB6B2150FEFBEED96.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001291001"
+  },
+  {
+    "school_name": "中原科技学院",
+    "school_url": "https://www.icourse163.org/university/XLXY",
+    "school_img": "https://edu-image.nosdn.127.net/0699a563cf4743748fac2143c5a58bf4.png",
+    "school_id": "1001337001"
+  },
+  {
+    "school_name": "郑州轻工业大学",
+    "school_url": "https://www.icourse163.org/university/ZZULI",
+    "school_img": "https://edu-image.nosdn.127.net/9C3B51A9944C1486239264506C7DFBA4.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001350001"
+  },
+  {
+    "school_name": "河南科技学院",
+    "school_url": "https://www.icourse163.org/university/HIST",
+    "school_img": "https://edu-image.nosdn.127.net/7495B5D0B2D1898F57BBD887DAD0243E.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001365001"
+  },
+  {
+    "school_name": "郑州工程技术学院",
+    "school_url": "https://www.icourse163.org/university/ZHZHU",
+    "school_img": "https://edu-image.nosdn.127.net/5F5644A05050711F5C16CAD9FC0E6A1C.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001372001"
+  },
+  {
+    "school_name": "西南科技大学",
+    "school_url": "https://www.icourse163.org/university/SWUST",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/v9T-3JJKRWzhSIymotLPNg==/1914874266663215175.png",
+    "school_id": "41001"
+  },
+  {
+    "school_name": "浙江传媒学院",
+    "school_url": "https://www.icourse163.org/university/ZJICM",
+    "school_img": "https://edu-image.nosdn.127.net/A54E8D3DF224CE1F1A1D68EE8B640A5E.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "43001"
+  },
+  {
+    "school_name": "哈尔滨工业大学（威海）",
+    "school_url": "https://www.icourse163.org/university/HITWH",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/K7FPol7xvjJZKjGIAy6oXg==/760826862149453421.jpg",
+    "school_id": "48001"
+  },
+  {
+    "school_name": "广西师范大学",
+    "school_url": "https://www.icourse163.org/university/GXSF",
+    "school_img": "https://edu-image.nosdn.127.net/9D737400D8B66F5613EBE2AF26CA18C0.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001215002"
+  },
+  {
+    "school_name": "浙江科技学院",
+    "school_url": "https://www.icourse163.org/university/ZUST",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/ZOKl73vla1mUhhJa8L3sag==/2838393665167719297.png",
+    "school_id": "65001"
+  },
+  {
+    "school_name": "湖南工业大学",
+    "school_url": "https://www.icourse163.org/university/HUT",
+    "school_img": "https://img-ph-mirror.nosdn.127.net/5Tyn_88kNEx798A8aUikPQ==/2401825976289566727.jpg",
+    "school_id": "71001"
+  },
+  {
+    "school_name": "中北大学",
+    "school_url": "https://www.icourse163.org/university/NUC",
+    "school_img": "https://edu-image.nosdn.127.net/FAF3D91C7E204A8FCBCED079DE7D1391.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001449003"
+  },
+  {
+    "school_name": "山东第一医科大学",
+    "school_url": "https://www.icourse163.org/university/SDDY",
+    "school_img": "https://edu-image.nosdn.127.net/E4A0D5103481BAB553487543302C7627.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444547760"
+  },
+  {
+    "school_name": "浙江中医药大学",
+    "school_url": "https://www.icourse163.org/university/ZJZYY",
+    "school_img": "https://edu-image.nosdn.127.net/0A4A8DBE8225AC2166711F50787FE2AC.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001335002"
+  },
+  {
+    "school_name": "天水师范学院",
+    "school_url": "https://www.icourse163.org/university/TSNC",
+    "school_img": "https://edu-image.nosdn.127.net/D208FE6A20557FE3C0360FE7C0C5BA1B.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "130001"
+  },
+  {
+    "school_name": "三峡大学",
+    "school_url": "https://www.icourse163.org/university/CTGU",
+    "school_img": "https://edu-image.nosdn.127.net/631b38b8a1ca400ca118f94e648617b7.jpg",
+    "school_id": "1001499002"
+  },
+  {
+    "school_name": "沈阳农业大学",
+    "school_url": "https://www.icourse163.org/university/SYAU",
+    "school_img": "https://mooc-image.nosdn.127.net/9e5485df284740e4aced2f10cef1a99b.png",
+    "school_id": "1001622002"
+  },
+  {
+    "school_name": "大连民族大学",
+    "school_url": "https://www.icourse163.org/university/DLNU",
+    "school_img": "https://edu-image.nosdn.127.net/2002E5FA4E113941C78C2AEC83B91064.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202984802"
+  },
+  {
+    "school_name": "沈阳药科大学",
+    "school_url": "https://www.icourse163.org/university/SYPHU",
+    "school_img": "https://edu-image.nosdn.127.net/bd58fadcb014498caf0b4eecd342b143.jpg",
+    "school_id": "1203008802"
+  },
+  {
+    "school_name": "安康学院",
+    "school_url": "https://www.icourse163.org/university/AKXY",
+    "school_img": "https://edu-image.nosdn.127.net/7A44C459B82EF152C8FC5655383B3D1E.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203009802"
+  },
+  {
+    "school_name": "武昌理工学院",
+    "school_url": "https://www.icourse163.org/university/WCLG",
+    "school_img": "https://edu-image.nosdn.127.net/EBF05076379AAD79348CB544A1C2C6BE.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001187001"
+  },
+  {
+    "school_name": "沈阳理工大学",
+    "school_url": "https://www.icourse163.org/university/SYLG",
+    "school_img": "https://edu-image.nosdn.127.net/69959052ABDF3601D5932630183B76D8.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1443974162"
+  },
+  {
+    "school_name": "战略支援部队信息工程大学地理空间信息学院",
+    "school_url": "https://www.icourse163.org/university/IEUP",
+    "school_img": "https://edu-image.nosdn.127.net/D2C6E0257BE6DD01C6D2966FB0162221.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1443993162"
+  },
+  {
+    "school_name": "北京警察学院",
+    "school_url": "https://www.icourse163.org/university/北京警察学院",
+    "school_img": "https://edu-image.nosdn.127.net/5f74de11e9b340eea6f7305535118a50.jpg",
+    "school_id": "1444547170"
+  },
+  {
+    "school_name": "山东管理学院",
+    "school_url": "https://www.icourse163.org/university/SDMU",
+    "school_img": "https://edu-image.nosdn.127.net/4e157da1b6304cbfbc6f9839d8033c33.png",
+    "school_id": "1444547782"
+  },
+  {
+    "school_name": "昆明医科大学",
+    "school_url": "https://www.icourse163.org/university/KMYKDX",
+    "school_img": "https://edu-image.nosdn.127.net/62417434293c45d493a22b5c9e67e020.png",
+    "school_id": "1444548274"
+  },
+  {
+    "school_name": "上海海洋大学",
+    "school_url": "https://www.icourse163.org/university/SHOU",
+    "school_img": "https://edu-image.nosdn.127.net/F542EDF87871BDE6F4A4F753ECD307DE.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001286001"
+  },
+  {
+    "school_name": "浙江师范大学",
+    "school_url": "https://www.icourse163.org/university/ZJNU",
+    "school_img": "https://edu-image.nosdn.127.net/550A0AD664E97A965795CD65AC78346E.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001341001"
+  },
+  {
+    "school_name": "桂林旅游学院",
+    "school_url": "https://www.icourse163.org/university/GLLY",
+    "school_img": "https://edu-image.nosdn.127.net/154629AC28F713301F917AA5B66E7EE2.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001355001"
+  },
+  {
+    "school_name": "山西师范大学",
+    "school_url": "https://www.icourse163.org/university/SXNU",
+    "school_img": "https://edu-image.nosdn.127.net/64F92340FAE669CF136D9F0F152FE2A3.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001456001"
+  },
+  {
+    "school_name": "齐鲁工业大学",
+    "school_url": "https://www.icourse163.org/university/SDILI",
+    "school_img": "https://edu-image.nosdn.127.net/AB120190DC4B8C420A049CB983507AB7.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001467001"
+  },
+  {
+    "school_name": "厦门理工学院",
+    "school_url": "https://www.icourse163.org/university/XMUT",
+    "school_img": "https://edu-image.nosdn.127.net/F4B607365AA9A5500405A66012B73AEC.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001482001"
+  },
+  {
+    "school_name": "广西科技大学启迪数字学院",
+    "school_url": "https://www.icourse163.org/university/GXKJQD",
+    "school_img": "https://edu-image.nosdn.127.net/F12469334FD79D7D428E796BE5F576B3.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001535001"
+  },
+  {
+    "school_name": "北京信息科技大学",
+    "school_url": "https://www.icourse163.org/university/BISTU",
+    "school_img": "https://edu-image.nosdn.127.net/BBA9B024DC0727CEF73CF5342A31140E.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001557001"
+  },
+  {
+    "school_name": "重庆师范大学",
+    "school_url": "https://www.icourse163.org/university/CQNU",
+    "school_img": "https://edu-image.nosdn.127.net/F4D49A478411A52270D1A11520B8638C.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001564001"
+  },
+  {
+    "school_name": "北部湾大学",
+    "school_url": "https://www.icourse163.org/university/SZXY",
+    "school_img": "https://edu-image.nosdn.127.net/0D7AF5B1F1590ABA6A54B807A00FD9CE.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001584001"
+  },
+  {
+    "school_name": "杭州医学院",
+    "school_url": "https://www.icourse163.org/university/HZYXY",
+    "school_img": "https://edu-image.nosdn.127.net/A79EF79691C979072FCCA190D14196EE.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202971801"
+  },
+  {
+    "school_name": "湖南科技学院",
+    "school_url": "https://www.icourse163.org/university/HUSE",
+    "school_img": "https://edu-image.nosdn.127.net/43AC7EA97BFAB65D81D757008726E826.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1202972801"
+  },
+  {
+    "school_name": "沈阳航空航天大学",
+    "school_url": "https://www.icourse163.org/university/SAUEDU",
+    "school_img": "https://edu-image.nosdn.127.net/b5ac72bbe9ae4d2584462b7d831c72b4.png",
+    "school_id": "1202983801"
+  },
+  {
+    "school_name": "福建江夏学院",
+    "school_url": "https://www.icourse163.org/university/FJJXXY",
+    "school_img": "https://edu-image.nosdn.127.net/597af0d0af6e4332b1e3be748fe3e957.jpg",
+    "school_id": "1202988801"
+  },
+  {
+    "school_name": "浙江外国语学院",
+    "school_url": "https://www.icourse163.org/university/ZJWGY",
+    "school_img": "https://edu-image.nosdn.127.net/7BCCA1402C4DBB03CA6AF9B0566B9B7D.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203038801"
+  },
+  {
+    "school_name": "江西科技学院",
+    "school_url": "https://www.icourse163.org/university/JXKJ",
+    "school_img": "https://edu-image.nosdn.127.net/7D470D9A35EB9A05D82C96705C83041B.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203044801"
+  },
+  {
+    "school_name": "浙大宁波理工学院",
+    "school_url": "https://www.icourse163.org/university/ZDNBLGXY",
+    "school_img": "https://mooc-image.nosdn.127.net/d7b1892b38084c9cae38ab5653e852ed.jpg",
+    "school_id": "1203087801"
+  },
+  {
+    "school_name": "宁夏医科大学",
+    "school_url": "https://www.icourse163.org/university/NXFS",
+    "school_img": "https://edu-image.nosdn.127.net/badd0976d7624b798be806ee1d29cc49.jpg",
+    "school_id": "1203133801"
+  },
+  {
+    "school_name": "安徽工程大学",
+    "school_url": "https://www.icourse163.org/university/AHGC",
+    "school_img": "https://edu-image.nosdn.127.net/6FE40539CEE4597D87DDCC333547B903.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203175801"
+  },
+  {
+    "school_name": "武昌工学院",
+    "school_url": "https://www.icourse163.org/university/WCGXY",
+    "school_img": "https://edu-image.nosdn.127.net/17a23cfd92404af1b66976e7c52f9f39.jpg",
+    "school_id": "1203202801"
+  },
+  {
+    "school_name": "湖南科技大学",
+    "school_url": "https://www.icourse163.org/university/HNKJ",
+    "school_img": "https://edu-image.nosdn.127.net/b9d17d359ebb45329e396507c85bee13.jpg",
+    "school_id": "1203212801"
+  },
+  {
+    "school_name": "安徽理工大学",
+    "school_url": "https://www.icourse163.org/university/AUST",
+    "school_img": "https://edu-image.nosdn.127.net/e0be003db4224ce78a086546f7dc2d01.jpg",
+    "school_id": "1444086161"
+  },
+  {
+    "school_name": "江西中医药大学",
+    "school_url": "https://www.icourse163.org/university/GDY038",
+    "school_img": "https://edu-image.nosdn.127.net/7B015A8227935B25BE3647F942B996C4.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444099161"
+  },
+  {
+    "school_name": "四川民族学院",
+    "school_url": "https://www.icourse163.org/university/SCMZ",
+    "school_img": "https://edu-image.nosdn.127.net/00043017C7AC4C714ED364FF3B3DCF5B.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1444462161"
+  },
+  {
+    "school_name": "蚌埠学院",
+    "school_url": "https://www.icourse163.org/university/PBXY",
+    "school_img": "https://edu-image.nosdn.127.net/eae21d4ad07d42c785e70259c7667f3f.jpg",
+    "school_id": "1444535161"
+  },
+  {
+    "school_name": "河北中医学院",
+    "school_url": "https://www.icourse163.org/university/ZYXY",
+    "school_img": "https://edu-image.nosdn.127.net/13119951fa1d4bccad5d69e02445ebfc.png",
+    "school_id": "1444547221"
+  },
+  {
+    "school_name": "高等教育出版社",
+    "school_url": "https://www.icourse163.org/university/hep",
+    "school_img": "https://edu-image.nosdn.127.net/89CA5E7F35639D7EE92BB37A1C987E68.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "91001"
+  },
+  {
+    "school_name": "职教MOOC建设委员会",
+    "school_url": "https://www.icourse163.org/university/HEPSVE",
+    "school_img": "https://edu-image.nosdn.127.net/2AED0CDE067BF5F06EFBF837A3219A28-1444282728077?imageView&thumbnail=220y80&quality=100",
+    "school_id": "118001"
+  },
+  {
+    "school_name": "爱课程",
+    "school_url": "https://www.icourse163.org/university/icourse",
+    "school_img": "https://mooc-image.nosdn.127.net/fdd25689c4894833853abb1e60816345.jpg",
+    "school_id": "1001176001"
+  },
+  {
+    "school_name": "湖北长江互联网教育研究院",
+    "school_url": "https://www.icourse163.org/university/irong",
+    "school_img": "https://edu-image.nosdn.127.net/4CCD5C59E53DEEC9C8FFF0326CA00480.jpg?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001213001"
+  },
+  {
+    "school_name": "全国大学生数学建模竞赛组织委员会",
+    "school_url": "https://www.icourse163.org/university/cumcm",
+    "school_img": "https://edu-image.nosdn.127.net/6449C200C5F83CE37CE3978A0C359239.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001217001"
+  },
+  {
+    "school_name": "全国高等学校学生信息咨询与就业指导中心",
+    "school_url": "https://www.icourse163.org/university/chesicc",
+    "school_img": "https://edu-image.nosdn.127.net/008F12C53F9B1072EBED5C96C8AC1E7D.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001221001"
+  },
+  {
+    "school_name": "国家开放大学",
+    "school_url": "https://www.icourse163.org/university/TOUC",
+    "school_img": "https://edu-image.nosdn.127.net/E61E20B265E3194C0A06BD7B356E9C63.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001312001"
+  },
+  {
+    "school_name": "四川计算机学会",
+    "school_url": "https://www.icourse163.org/university/SCF",
+    "school_img": "https://edu-image.nosdn.127.net/9754C3611DE7624BCA7AD7132E0FE6C5.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1001381001"
+  },
+  {
+    "school_name": "教育部大学生物学课程教学指导委员会",
+    "school_url": "https://www.icourse163.org/university/SWXJZW",
+    "school_img": "https://edu-image.nosdn.127.net/4637A938E4855C9ECA0F6C101D4C4F76.png?imageView&thumbnail=220y80&quality=100",
+    "school_id": "1203091801"
+  }
+]
