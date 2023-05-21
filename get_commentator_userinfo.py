@@ -202,7 +202,7 @@ def scrape_user_comments(user_id, cookies, csrf):
             user_comments.extend(first_data['result']['commentList'])
             # 爬取剩余页数据
             for page in range(2, totle_page_count + 1):
-                data['pageIndex'] = page
+                data['p'] = page
                 result = scrape_api(url, data, cookies)
                 if result['code'] == 0:
                     user_comments.extend(result['result']['commentList'])
@@ -243,7 +243,7 @@ def save_data(datas):
     保存数据为json文件
     """
     # 获取用户ID
-    user_id = datas['base_info']['result']['memberId']
+    user_id = datas['base_info']['memberId']
 
     # 构建保存路径
     base_path = f'{RESULTS_DIR}/{user_id}/base_info.json'
